@@ -2,7 +2,7 @@
 
 Created: Dec 12, 2020 10:35 PM
 
-[中国当代艺术场域内电子游戏艺术提纲与前期资料](殊途同归——中国当代艺术场域中的电子游戏%20All%20Road%20Lead%20To%20Rome%20---%20the%2099e63a1d088b4efcad2a1569291390ab/中国当代艺术场域内电子游戏艺术提纲与前期资料%2026f7d4b6ab68472a8f1d46587ef9ca95.md)
+[中国当代艺术场域内电子游戏艺术提纲与前期资料](https://github.com/WalkinginDarkness/sunset_studio/tree/35625819cabfca2409c6c9a4072eaa4d5225e06b/殊途同归——中国当代艺术场域中的电子游戏%20All%20Road%20Lead%20To%20Rome%20---%20the%2099e63a1d088b4efcad2a1569291390ab/中国当代艺术场域内电子游戏艺术提纲与前期资料%2026f7d4b6ab68472a8f1d46587ef9ca95.md)
 
 [中国当代艺术场域中的电子游戏 \| 落日间](https://mp.weixin.qq.com/s?__biz=MzIzMjM0NDk1NQ==&mid=2247485549&idx=1&sn=b9376d4301b3dfa53ff6a8424c394f8b&chksm=e8971479dfe09d6f4cc92c366f7f35d7c4de7f0e3d0eadf4cb9a58b0ebab6704b077d8b77330&token=2101092556&lang=zh_CN#rd)
 
