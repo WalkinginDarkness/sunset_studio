@@ -26,6 +26,12 @@ BGM ： Trent Reznor and Atticus Ross - Epiphany
 
 
 
+{embed image: 
+
+
+
+
+
 
 
 
