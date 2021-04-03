@@ -1,10 +1,6 @@
 # Table of contents
 
-* [电子游戏的十二幅面孔](README.md)
-* [E20 谜与顿悟 \| Artless x 落日间](untitled.md)
-* [前往订阅「落日间」](https://xpaidia.com)
-* [Changed Log](test-sync.md)
-* [index](untitled-1.md)
+* [落日间](README.md)
 * [vol.7 穿好衣服](vol.7-chuan-hao-yi-fu.md)
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](e21-ghostxshell-ren-gong-zhi-neng-yu-you-xi-0.md)
 
