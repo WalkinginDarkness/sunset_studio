@@ -1,0 +1,137 @@
+---
+description: AI都渴望变成人，是不是人类的自恋？
+---
+
+# E21 Ghost x Shell 人工智能与游戏 \[0\]
+
+
+
+![](https://sunset-1303964997.cos.ap-shanghai.myqcloud.com/Images/E21/cover21_slim.png)
+
+收听链接：
+
+![](https://sunset-1303964997.cos.ap-shanghai.myqcloud.com/Images/E21/live3.jpg)
+
+\*欢迎使用小宇宙app进行收听并给我们留言，小宇宙app是目前中文世界我们认为最好的泛用性播客收听客户端
+
+#### 嘉宾
+
+@Clear 超参数科技，前Tencent AI Lab战略   
+@Fanye 凉屋游戏 游戏设计师   
+@侯晨钟 SIE-Audiokineitc\(Wwise\)产品专家，算法作曲爱好者 B站: @iexmatsu   
+@Marc 颜镇钟 腾讯战略商业分析   
+@Mingjie 张铭杰 Tencent AI Lab+ 游戏社群运营   
+@Xichen 希辰：NExT Studios Audio Designer   
+@厌氧菌 Autodesk Research人工智能研究，游戏研究 \(网站：故事工程学实验室\)   
+@Yichi AI + 游戏 Tencent AI 游戏相关从业 南京大学人工智能院 xiaoyc.com   
+@重轻 游戏文化研究者 《不在场》主播
+
+**主持**
+
+@叶梓涛 媒体实验室「落日间」主理人，NExT Studios 游戏设计师，无知群众
+
+![](https://sunset-1303964997.cos.ap-shanghai.myqcloud.com/Images/E21/cover21.png)
+
+#### 游戏与人工智能 \[0\]
+
+你听到的这期不是精心录制和准备的播客节目，而是[第三期落日间Live](https://mp.weixin.qq.com/s?__biz=MzIzMjM0NDk1NQ==&mid=2247485728&idx=1&sn=688fa677dc3c6cdd136524783c30d46f&chksm=e8971534dfe09c223ae5e9054df784739a11841baa66b7013dbf751e6dbaa4b1d405d5883889&scene=21#wechat_redirect) 经过剪辑的录制内容 本期的内容是我拉了几位好朋友来进行的一次聊天与讨论，有AI x 游戏的从业者，战略，声音设计师，还有客串的重轻老师，以及扮演着一个 「攻击者」和「无知之人」的我，后来剪辑的时候意识到或许我们很多人所认为的人工智能有着完全不一样的图景
+
+#### 为什么落日间要聊人工智能？
+
+在段永朝为侯世达的学生梅拉妮·米歇尔《AI 3.0》所写的序言中有这么一段话：
+
+> 对人工智能的种种讨论，特别是涉及技术伦理、社会价值和发展前景的时候，人们一般只会停留在悲观或者乐观的选边站队层面，无法进一步深入下去。这不奇怪，技术专家们擅长的话语是数据、算法、模型，社会学者和新闻记者们只能从技术的外部性、代码的背后之手、人性之善恶的角度，捍卫或者批判某种价值主张。对绝大多数非专业人士而言，由于搞不懂隐藏在反向传播算法、卷积神经网络（convolutional neural networks，ConvNets）、马尔可夫过程、熵原理这些硬核知识背后的思想内涵，就只能以“好与坏”“善与恶”的视角对人工智能进行理解和评判。讲述技术视角的思想基础，弥合“理科生”与“文科生”之间看待人工智能的思想鸿沟，正是米歇尔这部书的价值所在。
+
+这也是我们的追求，人工智能的背后是计算机，数学，哲学这样一个迷雾重重交织的高点，而这个高点与作为当代资本与技术高地的游戏行业正在紧密运作着，人工智能与游戏开发，最前沿的技术话题与最复杂的工程学问题今天正在紧密糅合在一起，这是我们谈论一旦谈论游戏开发，科技，数理和计算机逃不过的话题，我们认为对于这个话题需要祛魅，让其不再成为一个神话的。
+
+#### 落日间 打算怎么聊人工智能？
+
+人工智能 与 游戏这样的话题也会尝试制作不连续的多集系列，我们希望能够与专业的朋友进行真诚的交谈与祛魅，如业内的专业牛人、回形针的基本操作、海外从业者等来从 计算机创意学 科普 学术与工业生产前沿等角度进行切入，来呈现出关于这个话题的复杂与多样的交织状态。
+
+而我自己也对这个话题充满兴趣，我对这些概念也并不明白，我也会借此机会一步步学习，去阅读相关内容并且进行实践，目前在阅读的《人工智能与游戏》还有《深度学习中的数学》都是很好的书籍。
+
+我们相信对于事物只有了解原理并且能够进行实践和尝试才能更好地谈论它们，无论是游戏还是技术。
+
+#### ShowNotes
+
+BGM：
+
+Kara Main Theme - Detroit: Become Human Not Just a Machine - Detroit: Become Human Little One - Detroit: Become Human
+
+\*为后期添加的补充内容
+
+00:00 为什么我们要聊人工智能？我们打算怎么聊？   
+03:16 为什么谈人工智能要谈电子游戏? 两者是怎么发生联系的？   
+06:35 话题缘由   
+08:45 嘉宾的自我介绍   
+15:00 游戏与AI的关系？   
+22:15 机器学习的引入，机器学习大概是什么？分为几种？   
+36:50 游戏中的AI分类   
+42:07 神经网络和深度学习是什么？   
+44:14 深度学习是什么？   
+46:46 机器学习AI与游戏的关系？- 人工智能作为对手   
+55:42 机器学习对于连续空间的离散化处理 Analog - Digital   
+57:50 对于AI作为好玩的对手/像人的对手的需求矛盾   
+61:35 补充学术界与工业界的分歧   
+62:48 AI的对抗游戏场景Hide and Seek，游戏设计与技术   
+67:40 AI对玩家的建模与营销服务   
+70:55 游戏来帮助AI进行研究和训练   
+72:25 基于为核心AI构建游戏玩法   
+74:05 判断AI在游戏中成功与否的标准是AI在游戏设计中的整合与交织的程度  
+76:09 [Dis\_Pontibus](https://store.steampowered.com/app/996980/Dis_Pontibus/) 游戏玩法与内容生成 [《Rival Peak》](http://www.gamelook.com.cn/2021/03/416834) [AI Dungeon](https://play.aidungeon.io/main/home)  
+81:20 AI带来的是游戏还是体验？   
+87:45 游戏AI要带来和追求的最终目的是什么？涌现性   
+98:10 从空想到落地，一个结论   
+100:22 过于务实的具体游戏开发音频需求困境与讨论   
+105:20 AI目前在游戏开发中的具体运用，AI配合测试与开发   
+111:13 AI能不能在创造上取代人类，计算机创意学，AI与艺术创作   
+119:11 AI作为一个产业：泡沫有多大？   
+127:35 提问环节   
+134:10 两个补充
+
+[《人工智能与游戏》](https://book.douban.com/subject/34949577/)
+
+[《深度学习的数学》](https://book.douban.com/subject/33414479/)
+
+[《克拉拉与太阳》](https://book.douban.com/subject/35315153/)
+
+[VizDoom](https://zhuanlan.zhihu.com/p/22604627)
+
+[Open AI - Hide and Seek](https://www.bilibili.com/video/BV1tE411Q74p)
+
+[NExT Studios 的Matt AI 虚拟人](https://mp.weixin.qq.com/s/at2AWrVpiV9XBNJgsM_f9w)
+
+[《Different: Escaping the Competitive Herd》](https://book.douban.com/subject/30224687/)
+
+[不可理论 E37 茫茫相似将万物勾连](https://mp.weixin.qq.com/s/ZnUnDb3MfvhfJQ6A5gEc3g)
+
+[51 AI都渴望变成人，是不是人类的自恋？\| 郁喆隽&小白](https://www.xiaoyuzhoufm.com/episode/605bb72b64b27cf2f137f3ff?s=eyJ1IjogIjVlYmNkNzkwMjFhYzg1ODA0MTJiNzcxMCJ9)
+
+![](https://sunset-1303964997.cos.ap-shanghai.myqcloud.com/Images/E21/ml02.png)
+
+讨论的时候mingjie使用的图
+
+![](https://sunset-1303964997.cos.ap-shanghai.myqcloud.com/Images/E21/ml01.png)
+
+后面找到的另一张图 36:50 \*游戏中的AI分类
+
+「落日间」Live是媒体实验室「落日间」组局，不定期开展的关于游戏的一切有趣有意义的讨论，更像是嘉宾之间碰撞圆桌的场合，借助Clubhouse的形式开展，希望可以带来有意义的讨论。讨论之后的内容会有一定的文字沉淀或音频归档，会发布在同名播客《落日间》。
+
+「落日间」是一个试图回答「何为游戏」与「游戏何为」的媒体实验室。
+
+公众号：落日间 网站：xpaidia.com 知乎：@叶梓涛 Bilibili：@叶叶叶叶梓涛\_落日间 weibo: @落日间Sunset 播客收听：请在小宇宙app或QQ音乐上搜索《落日间》
+
+我们做了一个需要点功夫才能进入的社群 落日间 [sunset.jgchat.net](sunset.jgchat.net) ，如果你有兴趣或许可以来逛逛。
+
+![](https://sunset-1303964997.cos.ap-shanghai.myqcloud.com/Images/E21/jgchat01.png)
+
+_\(_官网xpaidia.com搬运和修缮中，暂不进行发布\)
+
+
+
+感谢：@昕仔 @某小熊猫猫 @少楠 @Bob傅丰元 @小河shan @希辰Xichen @小乐 @DC @Bynn @webber @绅士凯布雷克 @Minke @Roam @兜&敏 @KIDD 还有其他在爱发电以及所有关注者的支持！：）
+
+特别感谢 [井盖chat](sunset.jgchat.net) 对落日间的赞助支持。
+
+
+
