@@ -8,6 +8,8 @@ description: '我们期待一种能符合艺术家本真的持续生产的方式
 
 ![](https://sunset-1303964997.cos.ap-shanghai.myqcloud.com/Images/E19/cover_podcast_19.png)
 
+### 总结
+
 这期提到的问题我自己非常关心，所以在过年的时候就拉了多方的几位朋友来进行讨论
 
 本期节目的文字版总结是这样的：
