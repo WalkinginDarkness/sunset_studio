@@ -9,7 +9,7 @@
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](podcast/e21.md)
 * [E20 谜与顿悟 \|  Artless x 落日间](podcast/e20.md)
 * [E19 独立游戏开发生存谈](podcast/e19.md)
-* [E5 2020了，游戏还能给我们带来什么？](podcast/e5.md)
+* [E5 2020游戏还能给我们带来什么？](podcast/e5.md)
 * [E4 为什么国内大厂很少做单机游戏](podcast/e4.md)
 * [E3 商场里的艺术游戏](podcast/e3.md)
 * [E2 Supercell的“无限游戏”](podcast/e2.md)
