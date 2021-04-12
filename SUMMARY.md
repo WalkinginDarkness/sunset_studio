@@ -23,6 +23,7 @@
 ## 落日一周间 Newsletter <a id="newsletter"></a>
 
 * [vol.7 穿好衣服](newsletter/vol7.md)
+* [vol.3 或许已不再年轻 \| 电子竞技](newsletter/vol.3-huo-xu-yi-bu-zai-nian-qing-dian-zi-jing-ji.md)
 * [vol.2 抵御无聊](newsletter/vol.2-di-yu-wu-liao.md)
 * [vol.1 我总是起不好名字](newsletter/vol.1-wo-zong-shi-qi-bu-hao-ming-zi.md)
 
