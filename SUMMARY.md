@@ -8,6 +8,7 @@
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](podcast/e21.md)
 * [E20 谜与顿悟 \|  Artless x 落日间](podcast/e20.md)
 * [E19 独立游戏开发生存谈](podcast/e19.md)
+* [E9 如果游戏是答案，那么问题是什么？](podcast/e9-ru-guo-you-xi-shi-da-an-na-me-wen-ti-shi-shen-me.md)
 * [E8 电子游戏应该如何面对孩子？](podcast/e8.md)
 * [E7 冯梦波：对照记](podcast/e7.md)
 * [E6 从火出圈的《黑神话：悟空》看游戏的文化表达](podcast/e6.md)
