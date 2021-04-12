@@ -3,6 +3,7 @@
 * [落日间](README.md)
 * [vol.7 穿好衣服](vol.7-chuan-hao-yi-fu.md)
 * [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](yi-fen-mian-fei-de-fu-fei-nei-rong-ji-hua-ji-liu-game-flux-monthly-qi-dong.md)
+* [E7 冯梦波：对照记](e7-feng-meng-bo-dui-zhao-ji.md)
 
 ## 播客 Podcast <a id="podcast"></a>
 
