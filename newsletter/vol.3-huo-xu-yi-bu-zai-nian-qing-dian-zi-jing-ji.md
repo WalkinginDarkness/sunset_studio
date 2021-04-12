@@ -6,7 +6,9 @@ description: 「主控程序把你送到这里来，如果你是有用的，就�
 
 **🐏vol 3 或许已不再年轻 \| 落日一周间 2020/10/26-11/01**
 
-相关内容：
+相关《落日间》播客内容可见：
+
+{% page-ref page="../podcast/untitled.md" %}
 
 ![](../.gitbook/assets/vol3.jpg)
 
