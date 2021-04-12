@@ -8,6 +8,7 @@
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](podcast/e21.md)
 * [E20 谜与顿悟 \|  Artless x 落日间](podcast/e20.md)
 * [E19 独立游戏开发生存谈](podcast/e19.md)
+* [Untitled](podcast/untitled.md)
 * [E9 如果游戏是答案，那么问题是什么？](podcast/e9-ru-guo-you-xi-shi-da-an-na-me-wen-ti-shi-shen-me.md)
 * [E8 电子游戏应该如何面对孩子？](podcast/e8.md)
 * [E7 冯梦波：对照记](podcast/e7.md)
@@ -19,8 +20,9 @@
 * [E1 他者](podcast/e1.md)
 * [E0 在落日的时间里](podcast/e0.md)
 
-## 落日一周间 Newsletter <a id="luo-ri-yi-zhou-jian-newsletter"></a>
+## 落日一周间 Newsletter <a id="newsletter"></a>
 
-* [vol.7 穿好衣服](luo-ri-yi-zhou-jian-newsletter/vol7.md)
-* [vol.1 我总是起不好名字](luo-ri-yi-zhou-jian-newsletter/vol.1-wo-zong-shi-qi-bu-hao-ming-zi.md)
+* [vol.7 穿好衣服](newsletter/vol7.md)
+* [vol.2 抵御无聊](newsletter/vol.2-di-yu-wu-liao.md)
+* [vol.1 我总是起不好名字](newsletter/vol.1-wo-zong-shi-qi-bu-hao-ming-zi.md)
 
