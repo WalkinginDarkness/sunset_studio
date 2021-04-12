@@ -3,13 +3,13 @@
 * [落日间](README.md)
 * [vol.7 穿好衣服](vol.7-chuan-hao-yi-fu.md)
 * [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](yi-fen-mian-fei-de-fu-fei-nei-rong-ji-hua-ji-liu-game-flux-monthly-qi-dong.md)
-* [E7 冯梦波：对照记](e7-feng-meng-bo-dui-zhao-ji.md)
 
 ## 播客 Podcast <a id="podcast"></a>
 
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](podcast/e21.md)
 * [E20 谜与顿悟 \|  Artless x 落日间](podcast/e20.md)
 * [E19 独立游戏开发生存谈](podcast/e19.md)
+* [E7 冯梦波：对照记](podcast/e7-feng-meng-bo-dui-zhao-ji.md)
 * [E6 从火出圈的《黑神话：悟空》看游戏的文化表达](podcast/e6-cong-huo-chu-quan-de-hei-shen-hua-wu-kong-kan-you-xi-de-wen-hua-biao-da.md)
 * [E5 2020游戏还能给我们带来什么？](podcast/e5.md)
 * [E4 为什么国内大厂很少做单机游戏](podcast/e4.md)
