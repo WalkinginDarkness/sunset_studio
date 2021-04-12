@@ -4,7 +4,7 @@ description: 感恩电竞，让玩家被看见
 
 # E10 一亿年轻人为之疯狂的事
 
-## 基本信息
+## 🎩 基本信息
 
 后戏 After Gaming x 落日间 第三期
 
@@ -36,6 +36,8 @@ by Tony （[后戏AfterGaming\#03：感恩电竞，让游戏被看见](https://m
 
 《后戏》视频版 [\#03：感恩电竞，让玩家被看见](https://www.bilibili.com/video/BV1rT4y1F7Ba)
 
+\(Tony 很有心地做了一个片头，2020年Bin的镜头，与13年前Sky还有2005年WCG的镜头穿插，时空穿梭，令人感慨\)
+
 ### 出场
 
 叶梓涛 NExT Studios 游戏设计师，在做「落日间」
@@ -44,7 +46,7 @@ Xichen 希辰 NExT Studios 音频设计师，前育碧员工，个人网站 [Sou
 
 Tony \(主持\) 游戏运营，游戏爱好者，前新闻传媒工作者
 
-## Show Notes
+## 🗒 Show Notes
 
 00:00 前言，[寒羽良](https://www.sohu.com/a/364297051_116000)（陈宇） [Sky](https://3g.163.com/game/video/V6SND1DAD.html)-[孟阳Rocket boy](https://www.bilibili.com/video/BV11s411v74g?from=search&seid=1873761270865476302) 《鲁豫有约》 [中国电子竞技国家队](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E5%9B%BD%E5%AE%B6%E9%98%9F/8804252?fr=aladdin)
 
@@ -106,7 +108,7 @@ Tony \(主持\) 游戏运营，游戏爱好者，前新闻传媒工作者
 
 62:02 节目官网ShowNote
 
-## 其他
+## 🐖 其他
 
 ![](../.gitbook/assets/lolwc2020.png)
 
