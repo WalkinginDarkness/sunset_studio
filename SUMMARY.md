@@ -24,6 +24,7 @@
 * [E2 Supercell的“无限游戏”](podcast/e2.md)
 * [E1 他者](podcast/e1.md)
 * [E0 在落日的时间里](podcast/e0.md)
+* [让虚拟成为通道，而非替代现实](podcast/rang-xu-ni-cheng-wei-tong-dao-er-fei-ti-dai-xian-shi.md)
 
 ## 落日一周间 Newsletter <a id="newsletter"></a>
 
