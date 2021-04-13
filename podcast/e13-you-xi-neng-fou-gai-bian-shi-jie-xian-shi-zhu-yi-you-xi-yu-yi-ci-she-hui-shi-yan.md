@@ -146,7 +146,9 @@ Game for society：[游戏x社会GAMEJAM](https://www.gamearchive.cn/game-for-so
 
 ## 补遗
 
-特别感谢杨杰老师（[@Digimonk](https://weibo.com/u/1717784427)）的临时音频支持，也特别感谢嘉宾梦霏与雪莹以及老朋友希辰与Tony来一起聊这个话题。聊天过程非常愉快，末赠送了刘梦霏老师一本[《游戏、竞技与娱乐》](https://book.douban.com/subject/4209078/) ，希望能为档案馆出一份力。
+特别感谢杨杰老师（[@Digimonk](https://weibo.com/u/1717784427)）的临时音频支持，也特别感谢嘉宾梦霏与雪莹以及老朋友希辰与Tony来一起聊这个话题。聊天过程非常愉快，末赠送了刘梦霏老师一本[《游戏、竞技与娱乐》](https://book.douban.com/subject/4209078/) ，希望能为档案馆出一份力。（2020.11.14）
 
 ![](../.gitbook/assets/book.jpg)
+
+
 
