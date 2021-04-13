@@ -8,7 +8,9 @@ description: 「我觉得我的艺术创作就是一个游戏」
 
 **低科技艺术实验室 x 落日间**
 
-**非常荣幸**
+非常荣幸能请到郑达老师聊聊游戏与艺术。
+
+郑达老师是我无意间发现的，国内少数很早就对游戏机制与创作有自觉的艺术工作者，后来随着在艺术领域的工作，郑达老师逐渐转向了人工智能与更技术性的课题。但没想到郑达老师谈论其那段尘封的记忆时，也充满了感慨，非常感谢为我们带来了这期情感真挚的，充满了珍贵口述资料经历的播客。
 
 ![](../.gitbook/assets/cover11.png)
 
@@ -32,7 +34,9 @@ BGM Daft Punk - Overture / Daft Punk - The Son of Flynn
 
 00:00 对《落日间》播客的定位和之后的发展与计划，三个部分
 
-03:30 关于本期《落日间》的标题与缘由06:20 自我介绍《[低科技艺术-郑达](https://book.douban.com/subject/25881260/)》/ [低科技艺术实验室 Low-Tech Art Lab](http://zhengda.tech/index.php/about/3)
+03:30 关于本期《落日间》的标题与缘由
+
+06:20 自我介绍《[低科技艺术-郑达](https://book.douban.com/subject/25881260/)》/ [低科技艺术实验室 Low-Tech Art Lab](http://zhengda.tech/index.php/about/3)
 
 07:20 2008 Indiecade 独立游戏的国际评审节 an international juried festival of independent games.
 
