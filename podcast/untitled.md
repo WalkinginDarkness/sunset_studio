@@ -10,7 +10,7 @@ description: 感恩电竞，让玩家被看见
 
 电竞相关内容延伸可参考
 
-{% page-ref page="../newsletter/vol.3-huo-xu-yi-bu-zai-nian-qing-dian-zi-jing-ji.md" %}
+{% page-ref page="../newsletter/vol3.md" %}
 
 部分资料收集参考王亚晖[《中国游戏风云》](https://book.douban.com/subject/30399060/)
 
