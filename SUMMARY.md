@@ -8,6 +8,7 @@
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](podcast/e21.md)
 * [E20 谜与顿悟 \|  Artless x 落日间](podcast/e20.md)
 * [E19 独立游戏开发生存谈](podcast/e19.md)
+* [E12 「祛魅」3A](podcast/e12-qu-mei-3a.md)
 * [E11 生成的线索：游戏的自在之语  落日间 x 低科技](podcast/e11-sheng-cheng-de-xian-suo-you-xi-de-zi-zai-zhi-yu-luo-ri-jian-x-di-ke-ji.md)
 * [E10 一亿年轻人为之疯狂的事](podcast/untitled.md)
 * [E9 如果游戏是答案，那么问题是什么？](podcast/e9-ru-guo-you-xi-shi-da-an-na-me-wen-ti-shi-shen-me.md)
