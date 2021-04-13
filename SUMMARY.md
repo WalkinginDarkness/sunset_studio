@@ -8,6 +8,7 @@
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](podcast/e21.md)
 * [E20 谜与顿悟 \|  Artless x 落日间](podcast/e20.md)
 * [E19 独立游戏开发生存谈](podcast/e19.md)
+* [E15 我们期待的未来其实也是我们自己](podcast/e15-wo-men-qi-dai-de-wei-lai-qi-shi-ye-shi-wo-men-zi-ji.md)
 * [E14 工业化浪潮下的中国游戏产业 \| TGDC x 落日间](podcast/e14-gong-ye-hua-lang-chao-xia-de-zhong-guo-you-xi-chan-ye-tgdcx-luo-ri-jian.md)
 * [E13 游戏能否改变世界：现实主义游戏与一次社会实验](podcast/e13-you-xi-neng-fou-gai-bian-shi-jie-xian-shi-zhu-yi-you-xi-yu-yi-ci-she-hui-shi-yan.md)
 * [E12 「祛魅」3A](podcast/e12-qu-mei-3a.md)
