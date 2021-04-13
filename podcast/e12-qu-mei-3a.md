@@ -18,6 +18,10 @@ description: 不合时宜之人的结局会是什么？
 
 希辰 Xichen： 声音设计师 Ubisoft Shanghai，有数代《Farcry》工作经验，目前就职于NExT Studios，个人网站 [Soundoer](https://soundoer.com/) , B站 [@Xichen](https://space.bilibili.com/157914767)
 
+### 收听链接
+
+[E12 「祛魅」3A](https://www.xiaoyuzhoufm.com/episode/5fb3e6a183c34e85ddae36d2?s=eyJ1IjogIjVlYmNkNzkwMjFhYzg1ODA0MTJiNzcxMCJ9)
+
 ## Show Notes
 
 BGM: Deadman's Gun - Ashtar Command - Red Dead Redemption Original Soundtrack
