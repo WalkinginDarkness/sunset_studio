@@ -26,7 +26,7 @@
 ## 落日一周间 Newsletter <a id="newsletter"></a>
 
 * [vol.7 穿好衣服](newsletter/vol7.md)
-* [Untitled](newsletter/untitled.md)
+* [vol.5 为了不放弃而放弃](newsletter/untitled.md)
 * [vol.4 没有我 \|《不在场》](newsletter/vol4.md)
 * [vol.3 或许已不再年轻 \| 电子竞技](newsletter/vol3.md)
 * [vol.2 抵御无聊](newsletter/vol2.md)
