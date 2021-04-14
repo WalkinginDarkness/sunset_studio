@@ -116,7 +116,7 @@ Naval Ravikant在[《Almanack of Naval Ravikant 纳瓦尔·拉维肯特年鉴》
 
 如同上篇newsletter提到的
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="vol5.md" %}
 
 > 世界上的那些好的东西，有益处的东西太多了，在没有带宽限制的世界中，所有知识都是值得学习，一切事物都有其美好之处。但现实世界，并不是那样。当我们觉得难以做好手上的某一件事的时候，忙碌得停不下来的时候并不是要陷入管窥（Tunneling）的心态，只看到眼前的急迫，而借用（borrowing）之后的时间，也不是去选择多线并行同时做其他事情。
 

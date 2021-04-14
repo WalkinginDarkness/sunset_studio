@@ -1,14 +1,14 @@
 # Table of contents
 
 * [落日间](README.md)
-* [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](yi-fen-mian-fei-de-fu-fei-nei-rong-ji-hua-ji-liu-game-flux-monthly-qi-dong.md)
+* [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](gfm.md)
 
 ## 播客 Podcast <a id="podcast"></a>
 
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](podcast/e21.md)
 * [E20 谜与顿悟 \|  Artless x 落日间](podcast/e20.md)
 * [E19 独立游戏开发生存谈](podcast/e19.md)
-* [E18 四十八小时做个游戏？《剑入禅境》GGJ 2021 Post-Mortem](podcast/untitled-1.md)
+* [E18 四十八小时做个游戏？《剑入禅境》GGJ 2021 Post-Mortem](podcast/e18.md)
 * [E17 得游戏者得天下：拜登的动森拉票法与政治的游戏延伸](podcast/e17.md)
 * [E16 虚 构：虚拟建筑学与游戏建构学｜城市罐头 x 落日间](podcast/e16.md)
 * [E15 我们期待的未来也是我们自己](podcast/e15.md)
@@ -27,15 +27,14 @@
 * [E2 Supercell的“无限游戏”](podcast/e2.md)
 * [E1 他者](podcast/e1.md)
 * [E0 在落日的时间里](podcast/e0.md)
-* [让虚拟成为通道，而非替代现实](podcast/rang-xu-ni-cheng-wei-tong-dao-er-fei-ti-dai-xian-shi.md)
 
 ## 落日一周间 Newsletter <a id="newsletter"></a>
 
 * [vol.7 穿好衣服](newsletter/vol7.md)
-* [vol.6 「完成」是一种能力](newsletter/vol.6-wan-cheng-shi-yi-zhong-neng-li.md)
-* [vol.5 为了不放弃而放弃](newsletter/untitled.md)
+* [vol.6 「完成」是一种能力](newsletter/vol6.md)
+* [vol.5 为了不放弃而放弃](newsletter/vol5.md)
 * [vol.4 没有我 \|《不在场》](newsletter/vol4.md)
 * [vol.3 或许已不再年轻 \| 电子竞技](newsletter/vol3.md)
 * [vol.2 抵御无聊](newsletter/vol2.md)
-* [vol.1 我总是起不好名字](newsletter/vol.1-wo-zong-shi-qi-bu-hao-ming-zi.md)
+* [vol.1 我总是起不好名字](newsletter/vol1.md)
 
