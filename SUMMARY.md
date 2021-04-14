@@ -10,7 +10,7 @@
 * [E19 独立游戏开发生存谈](podcast/e19.md)
 * [E17 得游戏者得天下：拜登的动森拉票法与政治的游戏延伸](podcast/e17-de-you-xi-zhe-de-tian-xia-bai-deng-de-dong-sen-la-piao-fa-yu-zheng-zhi-de-you-xi-yan-shen.md)
 * [E16 虚 构：虚拟建筑学与游戏建构学｜城市罐头 x 落日间](podcast/e16.md)
-* [E15 我们期待的未来其实也是我们自己](podcast/e15-wo-men-qi-dai-de-wei-lai-qi-shi-ye-shi-wo-men-zi-ji.md)
+* [E15 我们期待的未来也是我们自己](podcast/e15.md)
 * [E14 工业化浪潮下的中国游戏产业 \| TGDC x 落日间](podcast/e14.md)
 * [E13 游戏能否改变世界：现实主义游戏与一次社会实验（刘梦霏）](podcast/e13.md)
 * [E12 「祛魅」3A（刘嘉俊）](podcast/e12.md)
