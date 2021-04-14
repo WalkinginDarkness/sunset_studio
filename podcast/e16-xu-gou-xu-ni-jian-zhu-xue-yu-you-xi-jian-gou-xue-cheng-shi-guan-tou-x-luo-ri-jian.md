@@ -232,6 +232,8 @@ Edge of Miroir 镜之边缘 - 颜色与简洁的空间指引以及轻盈感
 The Second Life 第二人生 - -传奇的虚拟社交多人时空   
 [Fugue in void](https://moshelinke.itch.io/fugue-in-void) - Brutalism以及空间带来的情感体验
 
+![](../.gitbook/assets/manifoldgarden.png)
+
 ## 评论
 
 > 这一期不仅是干货多吧，主要是信息密度高，表达也非常干净和迅捷。这个其实很难，对主播的思维和知识储备等方面都要求很高。因为听上去你们基本没有在念稿或者套招，即兴的部分相当多。话说女主播语速真的自带三四倍速，我几次停下来看自己是否开启了倍速，真是太灵的姑娘。—— 伊夏
