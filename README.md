@@ -21,7 +21,5 @@ weibo: @落日间Sunset
 
 还有其他在[爱发电](https://afdian.net/@sunset_studio)支持我们的人，以及所有关注者的支持！：）
 
-特别感谢 井盖chat 对落日间的赞助支持。
-
-
+特别感谢 井盖chat 对落日间的赞助支持
 
