@@ -22,7 +22,9 @@ BA History / Philosophy / Art and Cutural Innovation and Creativity / IAS: Insti
 
 2020 - 《落日间》Podcast Project
 
-2021 - 《做点有趣的游戏网页和朋友分享吧》开源电子书 with yichi 2020 - 《落日一周间》Newsltter 2020 - Game Flux Monthly 激流中
+2021 - 《做点有趣的游戏网页和朋友分享吧》开源电子书 with yichi   
+2020 - 《落日一周间》Newsltter  
+2020 - Game Flux Monthly 激流中
 
 2021 - 落日间 Live - Roundtable 圆桌讨论活动
 

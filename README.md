@@ -2,20 +2,27 @@
 description: 游戏跨界
 ---
 
-# 落日间
+# 落日间 XPAIDIA MEDIA LAB
 
-**「落日间」是一个试图回答「何为游戏」与「游戏何为」的媒体实验室。**
+#### **「落日间」是一个试图回答「何为游戏」与「游戏何为」的跨界媒体实验室**
 
-公众号：落日间  
-网站：xpaidia.com \(维护中  \)  
-知乎：@叶梓涛   
-Bilibili：@叶叶叶叶梓涛\_落日间   
-weibo: @落日间Sunset   
-播客收听：小宇宙app/QQ音乐: 落日间
+[xpaidia.com](https://xpaidia.com) / [Bilibili](https://space.bilibili.com/3169565) / 公众号：落日间
 
-其他项目
 
-开源免费文档[《做点有趣的游戏网页和朋友分享吧 \| 落日间》](https://luorijian.gitbook.io/pweb/)
+
+2021 [《Sword Zen 剑入禅境》](https://yezi.itch.io/sz)NExT Studio GGJ winner
+
+{% page-ref page="podcast/e18.md" %}
+
+2020 - 《落日间》Podcast Project
+
+2021 - [《做点有趣的游戏网页和朋友分享吧 \| 落日间》](https://luorijian.gitbook.io/pweb/)开源电子书 with yichi   
+2020 - 《落日一周间》Newsltter   
+2020 - Game Flux Monthly 激流中
+
+{% page-ref page="gfm.md" %}
+
+2021 - 落日间 Live - Roundtable 圆桌讨论活动
 
 
 
@@ -23,11 +30,15 @@ weibo: @落日间Sunset
 
 如果你有兴趣或许可以来逛逛。
 
-❤ 感谢：@昕仔 @某小熊猫猫 @少楠 @Bob傅丰元 @小河shan @希辰Xichen @小乐 @DC @Bynn @webber @绅士凯布雷克 @Minke @Roam @兜&敏 @KIDD 
+❤ 感谢：@昕仔 @某小熊猫猫 @少楠 @Bob傅丰元 @小河shan @希辰Xichen @小乐 @DC @Bynn @webber @绅士凯布雷克 @Minke @Roam @兜&敏 @KIDD @菲兹 @喵呜
 
-还有其他在[爱发电](https://afdian.net/@sunset_studio)支持我们的人，以及所有关注者的支持！：）
+特别感谢 [井盖chat ](https://jgchat.net/)对落日间的赞助支持
 
-特别感谢 井盖chat 对落日间的赞助支持
+❤ 如果你愿意，可以给我们[「买杯咖啡」](https://afdian.net/@sunset_studio)这将帮助和鼓励我们更好地进行创作
+
+
+
+
 
 
 
