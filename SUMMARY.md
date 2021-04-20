@@ -1,6 +1,6 @@
 # Table of contents
 
-* [落日间 XPAIDIA MEDIA LAB](README.md)
+* [落日间 xpaidia](README.md)
 * [Portfolio](portfolio.md)
 * [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](gfm.md)
 

@@ -1,8 +1,8 @@
 ---
-description: 游戏跨界
+description: 游戏跨界 xpaidia media lab
 ---
 
-# 落日间 XPAIDIA MEDIA LAB
+# 落日间 xpaidia
 
 #### **「落日间」是一个试图回答「何为游戏」与「游戏何为」的跨界媒体实验室**
 
