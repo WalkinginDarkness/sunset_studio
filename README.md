@@ -6,6 +6,8 @@ description: 游戏跨界 xpaidia media lab
 
 #### **「落日间」是一个试图回答「何为游戏」与「游戏何为」的跨界媒体实验室**
 
+我们正创作试图帮助我们理解游戏和人文的文字，播客，视频，游戏，寻求电子游戏联结与更多的可能。
+
 [xpaidia.com](https://xpaidia.com) / [Bilibili](https://space.bilibili.com/3169565) / 公众号：落日间
 
 
@@ -33,6 +35,8 @@ description: 游戏跨界 xpaidia media lab
 ❤ 感谢：@昕仔 @某小熊猫猫 @少楠 @Bob傅丰元 @小河shan @希辰Xichen @小乐 @DC @Bynn @webber @绅士凯布雷克 @Minke @Roam @兜&敏 @KIDD @菲兹 @喵呜
 
 特别感谢 [井盖chat ](https://jgchat.net/)对落日间的赞助支持
+
+我们通过利用业余时间来创作，我们相信善意的力量，我们的收入来自于落日间的关注者们，以及我们认可的品牌的赞助，我们只会有限地接受并进行真诚且深度的品牌合作。
 
 ❤ 如果你愿意，可以给我们[「买杯咖啡」](https://afdian.net/@sunset_studio)这将帮助和鼓励我们更好地进行创作
 
