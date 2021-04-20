@@ -13,6 +13,12 @@ Bilibili：@叶叶叶叶梓涛\_落日间
 weibo: @落日间Sunset   
 播客收听：小宇宙app/QQ音乐: 落日间
 
+其他项目
+
+开源免费文档[《做点有趣的游戏网页和朋友分享吧 \| 落日间》](https://luorijian.gitbook.io/pweb/)
+
+
+
 我们做了一个需要点功夫才能进入的社群 落日间 [sunset.jgchat.net](sunset.jgchat.net) 
 
 如果你有兴趣或许可以来逛逛。
@@ -22,4 +28,6 @@ weibo: @落日间Sunset
 还有其他在[爱发电](https://afdian.net/@sunset_studio)支持我们的人，以及所有关注者的支持！：）
 
 特别感谢 井盖chat 对落日间的赞助支持
+
+
 
