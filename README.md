@@ -8,7 +8,7 @@ description: 游戏跨界 xpaidia media lab
 
 我们正创作试图帮助我们理解游戏和人文的文字，播客，视频，游戏，寻求电子游戏联结与更多的可能。
 
-[xpaidia.com](https://xpaidia.com) / [Bilibili](https://space.bilibili.com/3169565) / 公众号：落日间
+[xpaidia.com](https://xpaidia.com) / [Bilibili](https://space.bilibili.com/3169565) / 公众号：落日间 
 
 
 
