@@ -27,7 +27,8 @@ BA History / Philosophy / Art and Cutural Innovation and Creativity / IAS: Insti
 2021 - [《做个游戏送给朋友吧！》](https://luorijian.gitbook.io/pweb/tools)开源电子书 with yichi   
   
 2020 - 《落日一周间》Newsltter  
-2020 - Game Flux Monthly 激流中
+2020 - Game Flux Monthly 激流中  
+2020 - 《[中国当代艺术场域中的电子游戏 \| 落日间](https://mp.weixin.qq.com/s/fMOkRcm08kW3g4PPFnOvQQ)》
 
 2021 - 落日间 Live - Roundtable 圆桌讨论活动 
 
