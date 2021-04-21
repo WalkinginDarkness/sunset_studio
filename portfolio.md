@@ -24,11 +24,12 @@ BA History / Philosophy / Art and Cutural Innovation and Creativity / IAS: Insti
 
 2020 - 《落日间》Podcast Project
 
-2021 - 《做点有趣的游戏网页和朋友分享吧》开源电子书 with yichi   
+2021 - [《做个游戏送给朋友吧！》](https://luorijian.gitbook.io/pweb/tools)开源电子书 with yichi   
+  
 2020 - 《落日一周间》Newsltter  
 2020 - Game Flux Monthly 激流中
 
-2021 - 落日间 Live - Roundtable 圆桌讨论活动
+2021 - 落日间 Live - Roundtable 圆桌讨论活动 
 
 ## Game Project
 
@@ -42,9 +43,10 @@ BA History / Philosophy / Art and Cutural Innovation and Creativity / IAS: Insti
 
 x 知乎 游戏，游戏设计话题优秀回答者 [知乎首页 Link](https://mp.weixin.qq.com/s/8kjMPfVYOQwDzoGPWstnfw)
 
-x 独立游戏媒体indienova.com 兼职编辑 The Writer for the indie game website in China indienova.com [Link](https://indienova.com/u/guatif)
+x 独立游戏媒体indienova 兼职编辑 The Writer for the indie game website in China indienova.com [Link](https://indienova.com/u/guatif)
 
 x 腾云智库 The Writer for Tencent Social Research Center [Link](https://mp.weixin.qq.com/s/p34QyzNl91PUCH4vcKc5BA)  
+  
 [“严肃”的游戏](https://mp.weixin.qq.com/s/uiYhfS_vDIN9oTabnxzkFA)  
 [游戏的态度：如果不“严肃”，你就无法感受它的魅力](https://mp.weixin.qq.com/s/p34QyzNl91PUCH4vcKc5BA)  
 [游戏与电影：相似的外表，不同的灵魂](https://mp.weixin.qq.com/s/Ckqn-KvI4muqtG9xLzDaGg)  
@@ -65,5 +67,6 @@ x OUTPUT [O:BSERVE \| 殊途同归的新媒体艺术与电子游戏](https://mp.
 * 2020.11.20 华东师范大学 “游戏致/至死” 游戏哲学工作坊 主旨发言 《游戏的高度“严肃性”》 [Link](https://www.thepaper.cn/newsDetail_forward_10201281)
 * 2020.12 山中天艺术中心 《从自己制造的迷宫中逃出去：乌力波60周年”》 线上活动《电子游戏中的故事机器 x 厌氧菌》以及《寻找 Oulipo》展览游戏制作 [活动回顾](https://mp.weixin.qq.com/s/OAXyNPLEvAfYs5ZGCxAx-Q) / [活动和直播录屏](https://www.bilibili.com/video/BV13y4y1D7qY)
 * 2021.1 上海McaM 明当代美术馆 讲座《电子游戏的十二幅面孔》 [McaM 讲座预告](https://mp.weixin.qq.com/s/wCX_G4s8pO_oMTEfpDdMbg) / [回顾｜叶梓涛：游戏的艺术结构](https://mp.weixin.qq.com/s/jiS3BHYlO1PAG95parxRog) / Hpast 线上版分享 [推送](https://mp.weixin.qq.com/s/457WHeEphho3FZ-TU5g0Iw) / 线上版本录屏：[B站链接](https://www.bilibili.com/video/BV1T5411n7J1)
-* 2021.4.16 独立书店 神兽之间 分享《逃离游戏文化贫民窟》[预告推送](https://mp.weixin.qq.com/s/2XB5gkBfSZZf57FUed7BfQ) /
+* 2021.4.16 独立书店 神兽之间 分享《逃离游戏文化贫民窟》[预告推送](https://mp.weixin.qq.com/s/2XB5gkBfSZZf57FUed7BfQ)
+* 2021.4.21 天美工作室群 x 联合国环境规划署 知乎圆桌 [玩游戏，救地球！](https://www.zhihu.com/roundtable/playingfortheplanet) 邀请嘉宾
 
