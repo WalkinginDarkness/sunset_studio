@@ -16,6 +16,8 @@ BA History / Philosophy / Art and Cutural Innovation and Creativity / IAS: Insti
 
 ## XPAIDIA MEDIA LAB 落日间
 
+{% page-ref page="./" %}
+
 [xpaidia.com](https://xpaidia.com) / [Bilibili](https://space.bilibili.com/3169565) / 公众号：落日间
 
 2021 [《Sword Zen 剑入禅境》](https://yezi.itch.io/sz)NExT Studio GGJ winner
