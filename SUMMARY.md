@@ -6,7 +6,7 @@
 
 ## 播客 Podcast <a id="podcast"></a>
 
-* [E22 氪金游戏都在骗钱，而艺术家理应穷苦吗 \| 落日间 x 聊声与无](podcast/e22-ke-jin-you-xi-du-zai-pian-qian-er-yi-shu-jia-li-ying-qiong-ku-ma-luo-ri-jian-x-liao-sheng-yu-wu.md)
+* [E22 氪金游戏都在骗钱，而艺术家理应穷苦吗 \| 落日间 x 聊声与无](podcast/e22.md)
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](podcast/e21.md)
 * [E20 谜与顿悟 \|  Artless x 落日间](podcast/e20.md)
 * [E19 独立游戏开发生存谈](podcast/e19.md)
