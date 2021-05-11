@@ -7,8 +7,8 @@
 
 ## 指北 Gide
 
-* [指北 Gide](zhi-bei-gide/zhi-bei-gide.md)
-* [01 当代青年工作自救指北](zhi-bei-gide/01-dang-dai-qing-nian-gong-zuo-zi-jiu-zhi-bei.md)
+* [指北 Gide](zhi-bei-gide/about.md)
+* [01 当代青年工作自救指北](zhi-bei-gide/01.md)
 
 ## 播客 Podcast <a id="podcast"></a>
 
