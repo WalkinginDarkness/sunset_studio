@@ -5,10 +5,10 @@
 * [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](gfm.md)
 * [Untitled](untitled.md)
 
-## 指北 Gide
+## 指北 Gide <a id="gide"></a>
 
-* [指北 Gide](zhi-bei-gide/about.md)
-* [01 当代青年工作自救指北](zhi-bei-gide/01.md)
+* [指北 Gide](gide/about.md)
+* [01 当代青年工作自救指北](gide/01.md)
 
 ## 播客 Podcast <a id="podcast"></a>
 
