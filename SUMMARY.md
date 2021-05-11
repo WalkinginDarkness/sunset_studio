@@ -3,6 +3,12 @@
 * [落日间 xpaidia](README.md)
 * [Portfolio](portfolio.md)
 * [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](gfm.md)
+* [Untitled](untitled.md)
+
+## 指北 Gide
+
+* [指北 Gide](zhi-bei-gide/zhi-bei-gide.md)
+* [01 当代青年工作自救指北](zhi-bei-gide/01-dang-dai-qing-nian-gong-zuo-zi-jiu-zhi-bei.md)
 
 ## 播客 Podcast <a id="podcast"></a>
 
