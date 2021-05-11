@@ -8,7 +8,7 @@
 
 [知乎](https://www.zhihu.com/people/xie-mo-zhe) / [Twitter](https://twitter.com/Nir_yezi) / [Linkedin](https://www.linkedin.com/in/%E6%A2%93%E6%B6%9B-%E5%8F%B6-46b701111/) / 即刻：叶梓涛
 
-游戏设计师，在做跨界游戏媒体实验室「落日间」，播客《落日间》主播，知乎游戏、游戏设计优秀回答者，现就职于腾讯 NExT Studios。
+游戏设计师，跨界游戏媒体实验室「落日间」主理人，播客《落日间》主播，知乎游戏、游戏设计优秀回答者，现就职于腾讯 NExT Studios。
 
 BA History / Philosophy / Art and Cutural Innovation and Creativity / IAS: Institute of Advanced Studies in Humanities and Social Science in 南京大学 Nanjing University / une semestre exchange - Lettres et Humanités de l'Université Paris-Diderot
 
