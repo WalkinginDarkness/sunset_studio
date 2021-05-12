@@ -38,6 +38,7 @@
 
 ## 落日一周间 Newsletter <a id="newsletter"></a>
 
+* [vol.8 当代资本世界生存指北](newsletter/vol.8-dang-dai-zi-ben-shi-jie-sheng-cun-zhi-bei.md)
 * [vol.7 穿好衣服](newsletter/vol7.md)
 * [vol.6 「完成」是一种能力](newsletter/vol6.md)
 * [vol.5 为了不放弃而放弃](newsletter/vol5.md)
