@@ -8,7 +8,7 @@
 
 * [指北 Gide](gide/about.md)
 * [01 当代青年工作自救指北](gide/01.md)
-* [02 当代资本世界生存指北](gide/02-dang-dai-zi-ben-shi-jie-sheng-cun-zhi-bei.md)
+* [02 当代资本世界生存指北](gide/02.md)
 
 ## 播客 Podcast <a id="podcast"></a>
 
