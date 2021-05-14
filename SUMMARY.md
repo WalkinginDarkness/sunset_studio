@@ -12,6 +12,7 @@
 
 ## 播客 Podcast <a id="podcast"></a>
 
+* [E23 在哲学与游戏之间 \| 姜宇辉 x 落日间](podcast/e23.md)
 * [E22 氪金游戏都在骗钱，而艺术家理应穷苦吗 \| 落日间 x 聊声与无](podcast/e22.md)
 * [E21 Ghost x Shell 人工智能与游戏 \[0\]](podcast/e21.md)
 * [E20 谜与顿悟 \|  Artless x 落日间](podcast/e20.md)
