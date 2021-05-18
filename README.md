@@ -12,6 +12,8 @@ description: 游戏跨界 xpaidia media lab
 
 
 
+2021 [「虚 构」手册](https://xpaidia.gitbook.io/-2/) 一本免费的虚拟空间重建指南。「虚 构」手册的写作计划希望借助电子游戏，帮助我们从对电子游戏的解构开始，穿越游戏的本体论思考，将各类技术进行内在化并开始创作。
+
 2021 [《Sword Zen 剑入禅境》](https://yezi.itch.io/sz)NExT Studio GGJ winner
 
 {% page-ref page="podcast/e18.md" %}
