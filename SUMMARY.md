@@ -2,7 +2,6 @@
 
 * [落日间 xpaidia](README.md)
 * [Portfolio](portfolio.md)
-* [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](gfm.md)
 
 ## Ficstruction 虚构 <a id="ficstruction"></a>
 
