@@ -3,6 +3,7 @@
 * [落日间 xpaidia](README.md)
 * [Portfolio](portfolio.md)
 * [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](gfm.md)
+* [「虚 构」手册](https://xpaidia.gitbook.io/-2/)
 
 ## 指北 Gide <a id="gide"></a>
 
