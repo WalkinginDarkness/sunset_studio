@@ -7,9 +7,9 @@
 
 ## 指北 Gide <a id="gide"></a>
 
-* [指北 Gide](gide/about.md)
-* [01 当代青年工作自救指北](gide/01.md)
-* [02 当代资本世界生存指北](gide/02.md)
+* [指北 Gide](gide/about/README.md)
+  * [01 当代青年工作自救指北](gide/about/01.md)
+  * [02 当代资本世界生存指北](gide/about/02.md)
 
 ## Update 更新 <a id="update"></a>
 
