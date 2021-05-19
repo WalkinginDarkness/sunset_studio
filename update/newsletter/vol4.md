@@ -24,7 +24,7 @@ description: 允许自己认输，允许自己成为一个失败者。一个认�
 
 > 海量信息很大程度上增加了世界的熵，即世界的噪声量。思考需要安静，是在安静中的一种探险。
 
-![Plastic Love &#x5C01;&#x9762;&#xFF0C;&#x51FA;&#x81EA;&#x7B2C;&#x4E00;&#x671F;&#x300A;&#x4E0D;&#x5728;&#x573A;&#x300B;](../.gitbook/assets/plasticlove.jpg)
+![Plastic Love &#x5C01;&#x9762;&#xFF0C;&#x51FA;&#x81EA;&#x7B2C;&#x4E00;&#x671F;&#x300A;&#x4E0D;&#x5728;&#x573A;&#x300B;](../../.gitbook/assets/plasticlove.jpg)
 
 韩炳哲在《[爱欲之死](https://book.douban.com/subject/30389924/)》中论及想象力的丧失时是这样说的。
 
@@ -44,7 +44,7 @@ description: 允许自己认输，允许自己成为一个失败者。一个认�
 
 ## 不在场
 
-![&#x5C01;&#x9762;&#x6765;&#x81EA;&#x7B2C;10&#x671F;&#x300A;&#x4E0D;&#x5728;&#x573A;&#x300B;by &#x5C0F;&#x767D;&#x514D;](../.gitbook/assets/buzaichang_cover.png)
+![&#x5C01;&#x9762;&#x6765;&#x81EA;&#x7B2C;10&#x671F;&#x300A;&#x4E0D;&#x5728;&#x573A;&#x300B;by &#x5C0F;&#x767D;&#x514D;](../../.gitbook/assets/buzaichang_cover.png)
 
 《不在场》这点做得很好。
 
@@ -78,7 +78,7 @@ description: 允许自己认输，允许自己成为一个失败者。一个认�
 
 ## 没有我
 
-![&#x6765;&#x81EA;Bonus&#x671F; &#x300A;&#x4E0D;&#x5728;&#x573A;&#x300B; by &#x5C0F;&#x767D;&#x514D;](../.gitbook/assets/buzaichangcover2.png)
+![&#x6765;&#x81EA;Bonus&#x671F; &#x300A;&#x4E0D;&#x5728;&#x573A;&#x300B; by &#x5C0F;&#x767D;&#x514D;](../../.gitbook/assets/buzaichangcover2.png)
 
 「不在场」还有另外一层，即「没有我」。
 
@@ -130,7 +130,7 @@ EP9讲述了华纳音乐请了两位不同的制作人两次发行《Take On Me�
 >
 > _两个小时里，他们一直在观看画像。但是他们看的其中一张，演讲者本人并没有意识到——是一个男人投射在屏幕上的轮廓，一个穿着晚礼服、停下思考问题然后举起教鞭指示的苦行者。这一幅图像会跟其余的一起留在记忆里，这一幅粗糙的素描会在未来的岁月里给观众中的许多人充当一位伟大批评家的画像，一个有着丰富的情感但又苛求正直的人，当理智无法再深入时，他就突然叫停。但是，他自己相信并且也说服了其他人相信，他所看到的东西确实在那里。_
 
-![&#x7F57;&#x6770;&#x5F17;&#x83B1;](../.gitbook/assets/roger.jpg)
+![&#x7F57;&#x6770;&#x5F17;&#x83B1;](../../.gitbook/assets/roger.jpg)
 
 批评家的职责并不在于玩弄辞藻，将作品变得模糊不清，批评家要的是「我会努力使你如我一般看待文本」，召唤一种清晰地且敏感的感受力。
 
@@ -154,7 +154,7 @@ EP9讲述了华纳音乐请了两位不同的制作人两次发行《Take On Me�
 
 2020.11.11
 
-![](../.gitbook/assets/vol4.png)
+![](../../.gitbook/assets/vol4.png)
 
 ## 🐖 落日间进展
 

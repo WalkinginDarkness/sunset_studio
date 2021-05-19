@@ -16,7 +16,7 @@ description: 游戏跨界 xpaidia media lab
 
 2021 [《Sword Zen 剑入禅境》](https://yezi.itch.io/sz)NExT Studio GGJ winner
 
-{% page-ref page="podcast/e18.md" %}
+{% page-ref page="update/podcast/e18.md" %}
 
 2020 - 《落日间》Podcast Project
 

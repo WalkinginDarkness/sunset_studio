@@ -3,7 +3,7 @@
   
 **🐏 vol.1** [**我总是起不好名字**](https://xpaidia.com/weekly01/xpaidia.com/weekly01/) **\| 落日一周间 2020/10/12-10/18**
 
-![](../.gitbook/assets/vol1.png)
+![](../../.gitbook/assets/vol1.png)
 
 ## 补遗
 
@@ -69,7 +69,7 @@ _作为一个独立游戏玩家与游戏设计师，谈论游戏不仅仅是游�
 
 上周有一个游戏[《怪物远征》\(Monsters Expedition\)](https://store.steampowered.com/app/1052990/_/?l=schinese) 推出。目前应该已经可以在steam，IOS的applearcade订阅服务，其他平台上玩到。
 
-![](../.gitbook/assets/monsterexpedition.gif)
+![](../../.gitbook/assets/monsterexpedition.gif)
 
 打了六个小时后我发了一条：
 
@@ -97,7 +97,7 @@ _作为一个独立游戏玩家与游戏设计师，谈论游戏不仅仅是游�
 
 当你在游戏中遇到一个小的奶茶店，你可以拿起一杯小奶茶喝上一会，或者是坐在沙滩边上晃晃脚，然后镜头缓慢拉远，并且音乐慢慢变得舒缓，这时候一种游戏的世界感与时间的触感浮现出来。
 
-![](../.gitbook/assets/monsterexpedition2.gif)
+![](../../.gitbook/assets/monsterexpedition2.gif)
 
 这些设计与游戏的核心机制毫无关联，它不会给你角色变强，或者是带去什么特别的道具，但是它就是存在在这个游戏世界之中，为什么？因为如果有这样一个世界，有这样一个怪物，它或许有些时候也想要坐着休息一会，听听海风，享受一下阳光。
 
@@ -121,11 +121,11 @@ GMTK有一期谈论Tokitori2 [《小鸡快跑2》中的邪道路线](https://www
 
 游戏的叙事很弱，更多是作为收集品存在的一些岛上事物的调查，这个背着书包的小怪兽的世界是一个后人类的时间，怪兽们发掘出各种人们以前遗留下来的物品，做出研究与猜测。
 
-![](../.gitbook/assets/me3.png)
+![](../../.gitbook/assets/me3.png)
 
 这种「非人」的视角给了玩家一种特别的角度去审视一些日常生活的物品，与游戏整体的体验一致：作为一个外来的解密者在探索这个世界的规则。这种叙事感有很像是[Donut County](https://store.steampowered.com/app/702670/Donut_County/)，让人忍俊不禁，无形中也消解了难题的紧张感与疲惫。
 
-![](../.gitbook/assets/donutcounty.jpg)
+![](../../.gitbook/assets/donutcounty.jpg)
 
 _\[1\] 这一部分我希望能够与艺术家的authorship的内容相互对比，并且勾连JonathanBlow的演讲相互理解，这里暂不展开。我希望能够准备一期关于游戏设计师JoanthanBlow的播客，其中会谈论到这些内容。_
 
@@ -141,7 +141,7 @@ _\[4\] 我曾经尝试写过一些这一种感觉_ [_The Witness 01-10 说不可
 
 [监视资本主义：智能陷阱 The Social Dilemma \(2020\)](https://movie.douban.com/subject/34960008/)，在[B站](https://www.bilibili.com/video/BV1h54y1m7x8?from=search&seid=9857868409578420434)能看\[1\]。
 
-![](../.gitbook/assets/documentary.png)
+![](../../.gitbook/assets/documentary.png)
 
 在看过之后我希望以游戏角度谈论几个印象深的点：
 
@@ -183,7 +183,7 @@ _所以介绍人会很有意思。_
 
 > _先有艺术家，然后有艺术There is artist first, then there is art_
 
-![](../.gitbook/assets/bruce.jpg)
+![](../../.gitbook/assets/bruce.jpg)
 
 和Bruce是在bob的灵感买家俱乐部认识的。
 
@@ -193,7 +193,7 @@ _所以介绍人会很有意思。_
 
 ### **从工具到科技**
 
-![](../.gitbook/assets/bruce2.jpg)
+![](../../.gitbook/assets/bruce2.jpg)
 
 从他的[少数派页面](https://sspai.com/u/hyd4bsqs/posts)中的关于笔记软件Roam Research的文章[Roam Research Report——别加入 roamcult](https://sspai.com/post/61010)可以反映他对于工具的看法
 
@@ -213,7 +213,7 @@ _所以介绍人会很有意思。_
 
 ### **信息∠交流**
 
-![](../.gitbook/assets/bruce3.jpg)
+![](../../.gitbook/assets/bruce3.jpg)
 
 我很好奇他是如何与信息相处的：他从今年开始将其每周的阅读整合为周报，并且开始运行了一个[Telegram channel](https://t.me/s/intheflux)，名为**激流中（In the Flux）。**
 
@@ -233,7 +233,7 @@ Bruce担任策展人的2019年12月7日在深圳华侨城创意文化园的展�
 
 ### **机制的声音**
 
-![](../.gitbook/assets/bruce4.jpg)
+![](../../.gitbook/assets/bruce4.jpg)
 
 先前在BIE的公众号看到一篇文章印象深刻[《要是不想按照别人的规则生活，那就只能自己动手了》](https://mp.weixin.qq.com/s/B1qIgWc1LSE5b5VzeBz3FQ)，后来才发现Bruce正是文中所描述的「上阳台」团体的业主之一。
 

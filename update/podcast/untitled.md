@@ -18,7 +18,7 @@ description: 感恩电竞，让玩家被看见
 
 背景音乐：涅槃（Phoenix） 2019年英雄联盟全球总决赛主题曲
 
-![](../.gitbook/assets/e10.png)
+![](../../.gitbook/assets/e10.png)
 
 ### 开场词
 
@@ -76,7 +76,7 @@ Tony \(主持\) 游戏运营，游戏爱好者，前新闻传媒工作者
 
 29:12 两位少年 [SN Bin 纪录片](https://v.qq.com/x/cover/mzc0020085wxasb/u0034xsakxt.html) SN.Bin的成长记录 , 补充（[少年来到海边：油管上SN战队Adc焕烽的故事](https://www.bilibili.com/video/BV1VA411E7Lp/?spm_id_from=333.788.videocard.0)） / 职业化的可能与整体印象的转变
 
-![](../.gitbook/assets/snbin.jpg)
+![](../../.gitbook/assets/snbin.jpg)
 
 31:23 一段让Tony鼻酸的话，一代人的游戏情结
 
@@ -110,7 +110,7 @@ Tony \(主持\) 游戏运营，游戏爱好者，前新闻传媒工作者
 
 ## 🐖 其他
 
-![](../.gitbook/assets/lolwc2020.png)
+![](../../.gitbook/assets/lolwc2020.png)
 
 看完了全程决赛，颠荡起伏太刺激了，遗憾也太真切。
 

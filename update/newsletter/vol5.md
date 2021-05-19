@@ -6,7 +6,7 @@ description: 放弃应该放弃的，是为了不放弃那些不想放弃的
 
 **🐏vol.5 为了不放弃而放弃 2020/11/12-12/08**
 
-![](../.gitbook/assets/vol5.png)
+![](../../.gitbook/assets/vol5.png)
 
 不好意思，《落日一周间》一段时间没有更新。
 

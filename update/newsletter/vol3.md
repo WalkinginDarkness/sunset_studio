@@ -10,7 +10,7 @@ description: 「主控程序把你送到这里来，如果你是有用的，就�
 
 {% page-ref page="../podcast/untitled.md" %}
 
-![](../.gitbook/assets/vol3.jpg)
+![](../../.gitbook/assets/vol3.jpg)
 
 ### 🎯 英雄联盟S10电子竞技总决赛
 
@@ -66,11 +66,11 @@ description: 「主控程序把你送到这里来，如果你是有用的，就�
 
 我们需要考虑的是游戏的深度\(depth 用于描述游戏中需要学习内容的多寡\)，以及技巧范围（Skill range 上手难度和上限）：以下为部分游戏的技巧范围，类似井字棋（tic tac toe）是有上限的，而类似象棋或者《星际争霸》这类游戏作品是无上限的：
 
-![](../.gitbook/assets/skillrange.png)
+![](../../.gitbook/assets/skillrange.png)
 
 在PVP（Player versus Player）多人对抗，也就是「与人斗其乐无穷」的过程中，因为双方都具备学习的能力，所以双方的博弈会不断上升，下图以《虚幻竞技场 Unreal Tournament》为例子，表现了双方的一个自我再造（Reinvention）的过程：自我再造的是指随着玩家技巧提升，游戏会不断地进行自我再造扩展技巧范围。
 
-![](../.gitbook/assets/reinvention.png)
+![](../../.gitbook/assets/reinvention.png)
 
 值得留意的一点是，多人游戏往往是一个强机制性的游戏，通过不同玩家的行为而在这个游戏规则内浮现出（Emerge）出许许多多的可能性，打出各种各样精彩的对决，这样的一个游戏可以支撑上万个小时的游玩，玩家的进入与对战为其创造出源源不断的内容，也在时刻挑战和挖掘这个游戏的极限，在这个角度可以与类似我们熟悉的《巫师3》这种线性的进程游戏（Progression）有一个概念上最基本的区分。
 

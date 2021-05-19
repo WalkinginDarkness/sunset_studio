@@ -6,7 +6,7 @@ description: 如果你能够抵御无聊，那么你一定事事成功。 ——
 
 **🐏vol 2 抵御无聊 \| 落日一周间 2020/10/19-10/25**
 
-![&#x9898;&#x56FE;&#x6765;&#x81EA;&#x300A;The Witness&#x300B;](../.gitbook/assets/vol2.jpg)
+![&#x9898;&#x56FE;&#x6765;&#x81EA;&#x300A;The Witness&#x300B;](../../.gitbook/assets/vol2.jpg)
 
 > _如果你能够抵御无聊，那么你一定事事成功。 —— David Foster Wallace_
 
@@ -66,7 +66,7 @@ Boredom（无聊），无聊是什么？
 
 演讲者是美国小说家大卫华莱士，写过《无尽的玩笑》，他在给美国大学毕业生的演讲，[**这就是水 This is Water**](https://www.bilibili.com/video/BV15x411u7GB)，这篇演讲也有出版，名为 THIS IS WATER：some thoughts, delivered on a significant occasion about living a compassionate life，中文翻译为**《**[**生命中最简单又最困难的事：日常生活就是我们的本身，既绝望又禅意**](https://book.douban.com/subject/26665498/)**》**
 
-![](../.gitbook/assets/thisiswater.png)
+![](../../.gitbook/assets/thisiswater.png)
 
 在演讲中，他没有提梦想，改变世界这种大词，而是一反常态地为毕业生谈论起工作后我们要面对的日复一日，年复一年的空洞日常，作为小说家，他对着这种憋屈体验的表述令人忍俊不禁。
 
@@ -132,7 +132,7 @@ Ian Bogost认为我们所在的时代是一个反讽的时代。
 
 就像年轻的鱼在水里游动，呼吸，却看不见水，甚至还拒绝承认水，远离水，仿佛自己能够超越水。
 
-![](../.gitbook/assets/thisiswater2.png)
+![](../../.gitbook/assets/thisiswater2.png)
 
 在这个背景下，他认为「玩」是一个路径，
 

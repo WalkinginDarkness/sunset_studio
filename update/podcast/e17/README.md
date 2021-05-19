@@ -15,7 +15,7 @@ description: 相比之下，游戏要比任何一个传统载体，更能打动�
 
 （补遗）
 
-![](../.gitbook/assets/bidenfortnite.jpeg)
+![](../../../.gitbook/assets/bidenfortnite.jpeg)
 
 ### 文案
 
@@ -25,7 +25,7 @@ description: 相比之下，游戏要比任何一个传统载体，更能打动�
 
 根据第三方机构Circle的统计，45岁以下，特别是30岁以下的美国人，大多数投给了拜登，而川普在45岁甚至65岁以上的人群中更受欢迎。拜登成为更多美国年轻人的选择，或与他主动进入年轻人的圈子有关，游戏便是其中一例。
 
-![](../.gitbook/assets/image-courtesy-of-circle-and-tisch-college.png)
+![](../../../.gitbook/assets/image-courtesy-of-circle-and-tisch-college.png)
 
 拜登的团队中有专门负责在游戏渠道拉选票的成员。大选期间，他们在任天堂去年最热门的模拟经营游戏《动物森友会》中开设“拜登岛”，在全球最火爆的多人射击游戏《堡垒之夜》中推出定制地图，在游戏中动员玩家参与投票。
 
@@ -45,7 +45,7 @@ description: 相比之下，游戏要比任何一个传统载体，更能打动�
 
 原后戏微信推送 [后戏AfterGaming\#06：得游戏者得天下！拜登或是美国历史上最懂游戏的总统](https://mp.weixin.qq.com/s/hAC2KAocdN6L6qTPmcWccA)
 
-![](../.gitbook/assets/cover17.png)
+![](../../../.gitbook/assets/cover17.png)
 
 ### 出场
 
