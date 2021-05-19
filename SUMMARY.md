@@ -5,11 +5,11 @@
 * [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](gfm.md)
 * [「虚 构」手册](https://xpaidia.gitbook.io/-2/)
 
-## 指北 Gide <a id="gide"></a>
+## Project 项目 <a id="project"></a>
 
-* [指北 Gide](gide/about/README.md)
-  * [01 当代青年工作自救指北](gide/about/01.md)
-  * [02 当代资本世界生存指北](gide/about/02.md)
+* [指北 Gide](project/about/README.md)
+  * [01 当代青年工作自救指北](project/about/01.md)
+  * [02 当代资本世界生存指北](project/about/02.md)
 
 ## Update 更新 <a id="update"></a>
 

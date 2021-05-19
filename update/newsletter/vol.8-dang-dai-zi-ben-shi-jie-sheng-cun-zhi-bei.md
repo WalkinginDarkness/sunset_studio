@@ -2,7 +2,7 @@
 
 落日一周间vol.8的内容因为觉得有长期维护更新的价值，已经转为指北系列
 
-{% page-ref page="../../gide/about/02.md" %}
+{% page-ref page="../../project/about/02.md" %}
 
 
 
