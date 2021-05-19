@@ -48,3 +48,10 @@
   * [vol.7 穿好衣服](update/newsletter/vol7.md)
   * [vol.8 当代资本世界生存指北](update/newsletter/vol.8-dang-dai-zi-ben-shi-jie-sheng-cun-zhi-bei.md)
 
+## Ficstruction 虚构 手册
+
+* [PAIDIA 何为游戏？](ficstruction-xu-gou-shou-ce/paidia-he-wei-you-xi/README.md)
+  * [\#2 游戏的高度严肃性](ficstruction-xu-gou-shou-ce/paidia-he-wei-you-xi/2-you-xi-de-gao-du-yan-su-xing.md)
+  * [\#1 “严肃”的游戏](ficstruction-xu-gou-shou-ce/paidia-he-wei-you-xi/1-yan-su-de-you-xi.md)
+* [「虚 构」手册](ficstruction-xu-gou-shou-ce/xu-gou-shou-ce.md)
+
