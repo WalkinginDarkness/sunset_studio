@@ -50,8 +50,9 @@
 
 ## Ficstruction 虚构 手册
 
-* [PAIDIA 何为游戏？](ficstruction-xu-gou-shou-ce/paidia-he-wei-you-xi/README.md)
-  * [\#2 游戏的高度严肃性](ficstruction-xu-gou-shou-ce/paidia-he-wei-you-xi/2-you-xi-de-gao-du-yan-su-xing.md)
-  * [\#1 “严肃”的游戏](ficstruction-xu-gou-shou-ce/paidia-he-wei-you-xi/1-yan-su-de-you-xi.md)
+* [0 Paidia](ficstruction-xu-gou-shou-ce/paidia/README.md)
+  * [\#0 何为游戏？](ficstruction-xu-gou-shou-ce/paidia/0-he-wei-you-xi.md)
+  * [\#1 “严肃”的游戏](ficstruction-xu-gou-shou-ce/paidia/1-yan-su-de-you-xi.md)
+  * [\#2 游戏的高度严肃性](ficstruction-xu-gou-shou-ce/paidia/2-you-xi-de-gao-du-yan-su-xing.md)
 * [「虚 构」手册](ficstruction-xu-gou-shou-ce/xu-gou-shou-ce.md)
 
