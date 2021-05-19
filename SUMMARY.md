@@ -3,7 +3,16 @@
 * [落日间 xpaidia](README.md)
 * [Portfolio](portfolio.md)
 * [一份免费的付费内容计划 \| 激流 Game Flux Monthly 启动！](gfm.md)
-* [「虚 构」手册](https://xpaidia.gitbook.io/-2/)
+
+## Ficstruction 虚构 手册
+
+* [Ficstruction 虚 构手册](ficstruction-xu-gou-shou-ce/xu-gou-shou-ce.md)
+* [Paidia 游 戏](ficstruction-xu-gou-shou-ce/paidia/README.md)
+  * [\#0 何为游戏？](ficstruction-xu-gou-shou-ce/paidia/0-he-wei-you-xi.md)
+  * [\#1 “严肃”的游戏](ficstruction-xu-gou-shou-ce/paidia/1-yan-su-de-you-xi.md)
+  * [\#2 游戏的高度严肃性](ficstruction-xu-gou-shou-ce/paidia/2-you-xi-de-gao-du-yan-su-xing.md)
+* [Undo 解 构 \| 理 论](ficstruction-xu-gou-shou-ce/undo-jie-gou-li-lun/README.md)
+  * [中国当代艺术场域的电子游戏](ficstruction-xu-gou-shou-ce/undo-jie-gou-li-lun/contemporaryart.md)
 
 ## Project 项目 <a id="project"></a>
 
@@ -47,12 +56,4 @@
   * [vol.6 「完成」是一种能力](update/newsletter/vol6.md)
   * [vol.7 穿好衣服](update/newsletter/vol7.md)
   * [vol.8 当代资本世界生存指北](update/newsletter/vol.8-dang-dai-zi-ben-shi-jie-sheng-cun-zhi-bei.md)
-
-## Ficstruction 虚构 手册
-
-* [0 Paidia](ficstruction-xu-gou-shou-ce/paidia/README.md)
-  * [\#0 何为游戏？](ficstruction-xu-gou-shou-ce/paidia/0-he-wei-you-xi.md)
-  * [\#1 “严肃”的游戏](ficstruction-xu-gou-shou-ce/paidia/1-yan-su-de-you-xi.md)
-  * [\#2 游戏的高度严肃性](ficstruction-xu-gou-shou-ce/paidia/2-you-xi-de-gao-du-yan-su-xing.md)
-* [「虚 构」手册](ficstruction-xu-gou-shou-ce/xu-gou-shou-ce.md)
 
