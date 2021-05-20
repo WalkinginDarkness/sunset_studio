@@ -42,7 +42,7 @@ BA History / Philosophy / Art and Cutural Innovation and Creativity / IAS: Insti
 
 ## WORDS 约稿
 
-x 知乎 游戏，游戏设计话题优秀回答者 [知乎首页 Link](https://mp.weixin.qq.com/s/8kjMPfVYOQwDzoGPWstnfw)
+x 知乎 游戏，游戏设计话题优秀回答者 [知乎首页 Link](https://www.zhihu.com/people/xie-mo-zhe)
 
 x 独立游戏媒体indienova 兼职编辑 The Writer for the indie game website in China indienova.com [Link](https://indienova.com/u/guatif)
 
