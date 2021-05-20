@@ -71,6 +71,6 @@ x OUTPUT [O:BSERVE \| 殊途同归的新媒体艺术与电子游戏](https://mp.
 * 2021.4.16 独立书店 神兽之间 分享《逃离游戏文化贫民窟》[预告推送](https://mp.weixin.qq.com/s/2XB5gkBfSZZf57FUed7BfQ)
 * 2021.4.21 天美工作室群 x 联合国环境规划署 知乎圆桌 [玩游戏，救地球！](https://www.zhihu.com/roundtable/playingfortheplanet) 邀请嘉宾
 * 2021.4.23 腾讯游戏学院 [4.23 世界读书日「共建游戏人图书馆」](https://mp.weixin.qq.com/s/loA1heUV5SRjaNyk9vqFww) 邀请媒体人
-* 2021.5.1 群岛BOOK \| 落日间Live [虚拟秘境：电子游戏与空间](https://mp.weixin.qq.com/s/MnF8CFTBF-sNrw3P4kcY5A) 圆桌嘉宾 [《虚构：电子游戏中的空间》](https://www.bilibili.com/video/BV1bp4y147mZ?t=806)
-* 2021.5.7 腾讯研究院圆桌 《[Metaverse：互联网的未来是虚拟时空？](https://mp.weixin.qq.com/s/idtlL3Fb_zPOu3aJP7Xbtg)》嘉宾《未来我们将如何创造，并创造什么？》
+* 2021.5.1 群岛BOOK \| 落日间Live [虚拟秘境：电子游戏与空间](https://mp.weixin.qq.com/s/MnF8CFTBF-sNrw3P4kcY5A) 圆桌嘉宾 ，分享内容录屏[《虚构：电子游戏中的空间》](https://www.bilibili.com/video/BV1bp4y147mZ?t=806)
+* 2021.5.7 腾讯研究院圆桌 《[Metaverse：互联网的未来是虚拟时空？](https://mp.weixin.qq.com/s/idtlL3Fb_zPOu3aJP7Xbtg)》嘉宾，分享内容录屏《[未来我们将如何创造，并创造什么？](https://www.bilibili.com/video/BV1nU4y1t7pB?p=2)》
 
