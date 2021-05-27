@@ -20,7 +20,7 @@
   * [02 当代资本世界生存指北](project/about/02.md)
 * [德勒兹-哲学-游戏](project/deleuze.md)
 * [自指-复杂-涌现-游戏设计](project/emerge/README.md)
-  * [01 读 海德格尔《世界图像时代》](project/emerge/01-du-hai-de-ge-er-shi-jie-tu-xiang-shi-dai.md)
+  * [01 读 海德格尔《世界图像时代》](project/emerge/01world.md)
 
 ## Update 更新 <a id="update"></a>
 
