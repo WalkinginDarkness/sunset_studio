@@ -18,6 +18,7 @@
 * [指北 Gide](project/about/README.md)
   * [01 当代青年工作自救指北](project/about/01.md)
   * [02 当代资本世界生存指北](project/about/02.md)
+* [德勒兹-哲学-游戏](project/philo.md)
 
 ## Update 更新 <a id="update"></a>
 
