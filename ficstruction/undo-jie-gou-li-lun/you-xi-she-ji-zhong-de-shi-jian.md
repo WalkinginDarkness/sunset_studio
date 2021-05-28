@@ -1,3 +1,7 @@
+---
+description: 我感觉自己必须向后回溯，越过帕特农神庙的石马，回到我童年的木马。Paul Gauguin
+---
+
 # 游戏设计中的时间
 
 本文写作于2020/09，发布于[公众号](https://mp.weixin.qq.com/s?__biz=MzIzMjM0NDk1NQ==&mid=2247485340&idx=1&sn=7ba6abbde5a4b70fb9f168f92edff05e&chksm=e8971b88dfe0929edd794fa8138aaa1003d3ec5ea146ef8059266f14eeee0b4563e32d42ab91&token=2101092556&lang=zh_CN#rd)，非学术文章，仅提供相关游戏的浏览
