@@ -10,9 +10,9 @@
   * [\#0 何为游戏？](ficstruction/paidia/0-he-wei-you-xi.md)
   * [\#1 “严肃”的游戏](ficstruction/paidia/1-yan-su-de-you-xi.md)
   * [\#2 游戏的高度严肃性](ficstruction/paidia/2-you-xi-de-gao-du-yan-su-xing.md)
-* [Undo 解 构 \| 理 论](ficstruction/undo-jie-gou-li-lun/README.md)
-  * [中国当代艺术场域的电子游戏](ficstruction/undo-jie-gou-li-lun/contemporaryart.md)
-  * [游戏设计中的时间](ficstruction/undo-jie-gou-li-lun/timeingamedesign.md)
+* [Undo 解 构 \| 理 论](ficstruction/undo/README.md)
+  * [中国当代艺术场域的电子游戏](ficstruction/undo/contemporaryart.md)
+  * [游戏设计中的时间](ficstruction/undo/timeingamedesign.md)
 
 ## Project 项目 <a id="project"></a>
 
