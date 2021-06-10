@@ -1,8 +1,18 @@
 # Portfolio
 
- YE Zitao 叶梓涛 腾讯NExT Studios的游戏设计师，写作者，独立媒体实验室「落日间」的主理人，播客《落日间》的主播，知乎游戏、游戏设计方向优秀回答者，公布的独立作品有《剑入禅境Sword Zen》等。正积极推动电子游戏与人文、艺术、科技的跨界联结、祛魅与创作活动；近期关注的话题有哲学、人工智能、建筑、互动音乐等。毕业于南京大学，曾前往巴黎第七大学（l'Université Paris-Diderot）交换游学，兼有历史学、哲学、艺术与文化创意、人文社科高级研究院（IAS: Institute of Advanced Studies in Humanities and Social Science）的跨学科背景。网站可见 [xpaidia.com](http://xpaidia.com/)
+叶梓涛  YE Zitao 
 
- YE Zitao is a game designer and writer from NExT Studios of Tencent Games, He is also the host of the independent media lab "Luorijian", and its podcast , and an excellent answerer in the direction of games and game design in Zhihu. He is actively promoting the cross-border connection, clarification and creative activities between video games and humanities, art and technology ; recent topics of interest include philosophy, artificial intelligence, architecture, interactive music, etc. He graduated from Nanjing University and went on an exchange trip to l'Université Paris-Diderot, and has an interdisciplinary background in history, philosophy, art and cultural creativity, and IAS \(Institute of Advanced Studies in Humanities and Social Science\). The website can be found at [xpaidia.com](http://xpaidia.com/)
+腾讯NExT Studios的游戏设计师，写作者，独立媒体实验室「落日间」的主理人，播客《落日间》的主播，知乎游戏、游戏设计方向优秀回答者，公布的独立作品有《剑入禅境Sword Zen》等。正积极推动电子游戏与人文、艺术、科技的跨界联结、祛魅与创作活动；近期关注的话题有哲学、人工智能、建筑、互动音乐等。毕业于南京大学，曾前往巴黎第七大学（l'Université Paris-Diderot）交换游学，兼有历史学、哲学、艺术与文化创意、人文社科高级研究院（IAS: Institute of Advanced Studies in Humanities and Social Science）的跨学科背景。
+
+YE Zitao is a game designer and writer from NExT Studios of Tencent Games, He is also the host of the independent media lab "Luorijian", and its podcast , and an excellent answerer in the direction of games and game design in Zhihu. He is actively promoting the cross-border connection, clarification and creative activities between video games and humanities, art and technology ; recent topics of interest include philosophy, artificial intelligence, architecture, interactive music, etc. He graduated from Nanjing University and went on an exchange trip to l'Université Paris-Diderot, and has an interdisciplinary background in history, philosophy, art and cultural creativity, and IAS \(Institute of Advanced Studies in Humanities and Social Science\). 
+
+叶梓涛 Zitao Ye  
+
+[yzitao@foxmail.com](mailto:yzitao@foxmail.com)
+
+[知乎](https://www.zhihu.com/people/xie-mo-zhe) / [Twitter](https://twitter.com/Nir_yezi) / [Linkedin](https://www.linkedin.com/in/%E6%A2%93%E6%B6%9B-%E5%8F%B6-46b701111/) / 即刻：叶梓涛
+
+website: [xpaidia.com](http://xpaidia.com/)
 
 ## About Me
 
@@ -54,12 +64,6 @@
 
 
 ---------
-
-叶梓涛 Zitao Ye  
-
-[yzitao@foxmail.com](mailto:yzitao@foxmail.com)
-
-[知乎](https://www.zhihu.com/people/xie-mo-zhe) / [Twitter](https://twitter.com/Nir_yezi) / [Linkedin](https://www.linkedin.com/in/%E6%A2%93%E6%B6%9B-%E5%8F%B6-46b701111/) / 即刻：叶梓涛
 
 ![](.gitbook/assets/self.png)
 
