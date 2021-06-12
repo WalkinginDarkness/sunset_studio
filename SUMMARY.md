@@ -3,29 +3,10 @@
 * [落日间 xpaidia](README.md)
 * [Portfolio](portfolio.md)
 
-## Ficstruction 虚构 <a id="ficstruction"></a>
-
-* [Ficstruction 虚 构手册](ficstruction/xu-gou-shou-ce.md)
-* [Paidia 游 戏](ficstruction/paidia/README.md)
-  * [\#0 何为游戏？](ficstruction/paidia/0-he-wei-you-xi.md)
-  * [\#1 “严肃”的游戏](ficstruction/paidia/1-yan-su-de-you-xi.md)
-  * [\#2 游戏的高度严肃性](ficstruction/paidia/2-you-xi-de-gao-du-yan-su-xing.md)
-* [Undo 解 构 \| 理 论](ficstruction/undo/README.md)
-  * [中国当代艺术场域的电子游戏](ficstruction/undo/contemporaryart.md)
-  * [游戏设计中的时间](ficstruction/undo/timeingamedesign.md)
-
-## Project 项目 <a id="project"></a>
-
-* [指北 Gide](project/about/README.md)
-  * [01 当代青年工作自救指北](project/about/01.md)
-  * [02 当代资本世界生存指北](project/about/02.md)
-* [德勒兹-哲学-游戏](project/deleuze.md)
-* [自指-复杂-涌现-游戏设计](project/emerge/README.md)
-  * [01 读 海德格尔《世界图像时代》](project/emerge/01world.md)
-
 ## Update 更新 <a id="update"></a>
 
 * [落日间 Podcast](update/podcast/README.md)
+  * [E24 行走在资本与游戏边缘 \| x 游戏矩阵](update/podcast/e24-hang-zou-zai-zi-ben-yu-you-xi-bian-yuan-x-you-xi-ju-zhen.md)
   * [E23 在哲学与游戏之间 \| 姜宇辉 x 落日间](update/podcast/e23.md)
   * [E22 氪金游戏都在骗钱，而艺术家理应穷苦吗 \| 落日间 x 聊声与无](update/podcast/e22.md)
   * [E21 Ghost x Shell 人工智能与游戏 \[0\]](update/podcast/e21.md)
@@ -59,4 +40,24 @@
   * [vol.6 「完成」是一种能力](update/newsletter/vol6.md)
   * [vol.7 穿好衣服](update/newsletter/vol7.md)
   * [vol.8 当代资本世界生存指北](update/newsletter/vol.8-dang-dai-zi-ben-shi-jie-sheng-cun-zhi-bei.md)
+
+## Ficstruction 虚构 <a id="ficstruction"></a>
+
+* [Ficstruction 虚 构手册](ficstruction/xu-gou-shou-ce.md)
+* [Paidia 游 戏](ficstruction/paidia/README.md)
+  * [\#0 何为游戏？](ficstruction/paidia/0-he-wei-you-xi.md)
+  * [\#1 “严肃”的游戏](ficstruction/paidia/1-yan-su-de-you-xi.md)
+  * [\#2 游戏的高度严肃性](ficstruction/paidia/2-you-xi-de-gao-du-yan-su-xing.md)
+* [Undo 解 构 \| 理 论](ficstruction/undo/README.md)
+  * [中国当代艺术场域的电子游戏](ficstruction/undo/contemporaryart.md)
+  * [游戏设计中的时间](ficstruction/undo/timeingamedesign.md)
+
+## Project 项目 <a id="project"></a>
+
+* [指北 Gide](project/about/README.md)
+  * [01 当代青年工作自救指北](project/about/01.md)
+  * [02 当代资本世界生存指北](project/about/02.md)
+* [德勒兹-哲学-游戏](project/deleuze.md)
+* [自指-复杂-涌现-游戏设计](project/emerge/README.md)
+  * [01 读 海德格尔《世界图像时代》](project/emerge/01world.md)
 
