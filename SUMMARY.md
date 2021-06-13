@@ -6,7 +6,7 @@
 ## Update 更新 <a id="update"></a>
 
 * [落日间 Podcast](update/podcast/README.md)
-  * [E24 行走在资本与游戏边缘 \| x 游戏矩阵](update/podcast/e24-hang-zou-zai-zi-ben-yu-you-xi-bian-yuan-x-you-xi-ju-zhen.md)
+  * [E24 行走在资本与游戏边缘 \| x 游戏矩阵](update/podcast/e24.md)
   * [E23 在哲学与游戏之间 \| 姜宇辉 x 落日间](update/podcast/e23.md)
   * [E22 氪金游戏都在骗钱，而艺术家理应穷苦吗 \| 落日间 x 聊声与无](update/podcast/e22.md)
   * [E21 Ghost x Shell 人工智能与游戏 \[0\]](update/podcast/e21.md)
