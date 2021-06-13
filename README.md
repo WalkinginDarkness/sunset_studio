@@ -4,13 +4,17 @@ description: 游戏跨界 xpaidia media lab
 
 # 落日间 xpaidia
 
-#### **「落日间」是一个试图回答「何为游戏」与「游戏何为」的跨界媒体实验室**
+「落日间」是一个的以游戏为核心的跨界媒体实验室。
 
-我们正创作试图帮助我们理解游戏和人文的文字，播客，视频，游戏，寻求电子游戏联结与更多的可能。
+我们致力于追问「何为游戏」与「游戏何为」，正积极推动电子游戏与人文、艺术、科技的跨界联结、祛魅与创作。
 
 [xpaidia.com](https://xpaidia.com) / [Bilibili](https://space.bilibili.com/3169565) / 公众号：落日间 
 
 
+
+往期播客内容可见
+
+{% page-ref page="update/podcast/" %}
 
 2021 一本免费的虚拟空间重建指南。
 
@@ -23,8 +27,6 @@ description: 游戏跨界 xpaidia media lab
 {% page-ref page="update/podcast/e18.md" %}
 
 2020 - 《落日间》Podcast Project
-
-{% page-ref page="update/podcast/" %}
 
 2021 - [《做点有趣的游戏网页和朋友分享吧 \| 落日间》](https://luorijian.gitbook.io/pweb/)开源电子书 with yichi   
 2020 - 《落日一周间》Newsltter 作为落日间发展记录  
