@@ -21,7 +21,7 @@
   * [E12 「祛魅」3A（刘嘉俊）](update/podcast/e12.md)
   * [E11 生成的线索：游戏的自在之语 \| 低科技 x 落日间](update/podcast/e11.md)
   * [E10 一亿年轻人为之疯狂的事](update/podcast/untitled.md)
-  * [E9 如果游戏是答案，那么问题是什么？](update/podcast/e9-ru-guo-you-xi-shi-da-an-na-me-wen-ti-shi-shen-me.md)
+  * [E9 如果游戏是答案，那么问题是什么？](update/podcast/e9.md)
   * [E8 电子游戏应该如何面对孩子？](update/podcast/e8.md)
   * [E7 冯梦波：对照记](update/podcast/e7.md)
   * [E6 从火出圈的《黑神话：悟空》看游戏的文化表达](update/podcast/e6.md)
