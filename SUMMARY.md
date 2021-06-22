@@ -61,7 +61,7 @@
 * [自指-复杂-涌现-游戏设计](project/emerge/README.md)
   * [01 读 海德格尔《世界图像时代》](project/emerge/01world.md)
 
-## 日 \| 落 翻译计划 <a id="ri-luo-fan-yi-ji-hua"></a>
+## 日 \| 落 翻译计划 <a id="translate"></a>
 
-* [Brian Eno 生成性音乐 Generative Music "Evolving metaphors, in my opinion, is what artists do."](ri-luo-fan-yi-ji-hua/brian-eno-sheng-cheng-xing-yin-le-generative-music-evolving-metaphors-in-my-opinion-is-what-artists.md)
+* [Brian Eno 生成性音乐 Generative Music "Evolving metaphors, in my opinion, is what artists do."](translate/1.md)
 
