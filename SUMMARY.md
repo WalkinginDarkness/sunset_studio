@@ -20,7 +20,7 @@
   * [E13 游戏能否改变世界：现实主义游戏与一次社会实验（刘梦霏）](update/podcast/e13.md)
   * [E12 「祛魅」3A（刘嘉俊）](update/podcast/e12.md)
   * [E11 生成的线索：游戏的自在之语 \| 低科技 x 落日间](update/podcast/e11.md)
-  * [E10 一亿年轻人为之疯狂的事](update/podcast/untitled.md)
+  * [E10 一亿年轻人为之疯狂的事](update/podcast/e10.md)
   * [E9 如果游戏是答案，那么问题是什么？](update/podcast/e9.md)
   * [E8 电子游戏应该如何面对孩子？](update/podcast/e8.md)
   * [E7 冯梦波：对照记](update/podcast/e7.md)

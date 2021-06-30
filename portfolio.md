@@ -126,4 +126,8 @@ x OUTPUT [O:BSERVE \| 殊途同归的新媒体艺术与电子游戏](https://mp.
 * 2021.4.23 腾讯游戏学院 [4.23 世界读书日「共建游戏人图书馆」](https://mp.weixin.qq.com/s/loA1heUV5SRjaNyk9vqFww) 邀请媒体人
 * 2021.5.1 群岛BOOK \| 落日间Live [虚拟秘境：电子游戏与空间](https://mp.weixin.qq.com/s/MnF8CFTBF-sNrw3P4kcY5A) 圆桌嘉宾 ，分享内容录屏[《虚构：电子游戏中的空间》](https://www.bilibili.com/video/BV1bp4y147mZ?t=806)
 * 2021.5.7 腾讯研究院圆桌 《[Metaverse：互联网的未来是虚拟时空？](https://mp.weixin.qq.com/s/idtlL3Fb_zPOu3aJP7Xbtg)》嘉宾，分享内容录屏《[未来我们将如何创造，并创造什么？](https://www.bilibili.com/video/BV1nU4y1t7pB?p=2)》
+* 2021.6.26 WMS2021 Talks 《再重聚：游戏-音频的游戏设计视角 Re-Reunion：Audio-Gameplay Design》with Xichen [Audiokinetic Wwise Interactive Music Symposium 2021](https://info.audiokinetic.com/zh-cn/wwise-interactive-music-symposium-2021-china) / [推送](https://mp.weixin.qq.com/s/coZwzfD_-fCgenBRKoD8HQ) 
+* 2021.7.1 Google Talk 《播客破万「卷」Podcast: a verb, a lifestyle》with afta from 《小声喧哗》
+
+
 
