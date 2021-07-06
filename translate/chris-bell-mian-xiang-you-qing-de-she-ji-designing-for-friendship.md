@@ -1,4 +1,4 @@
-# Chris Bell 面向友情的设计 Designing For Friendship
+# \#2 Chris Bell 面向友情的设计 Designing For Friendship
 
 ### **推荐语**
 
