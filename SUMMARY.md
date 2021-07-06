@@ -63,5 +63,5 @@
 
 ## 日 \| 落 翻译计划 <a id="translate"></a>
 
-* [Brian Eno 生成性音乐 Generative Music "Evolving metaphors, in my opinion, is what artists do."](translate/1.md)
+* [Brian Eno 生成性音乐 Generative Music](translate/1.md)
 
