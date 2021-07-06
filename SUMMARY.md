@@ -64,5 +64,5 @@
 ## 日 \| 落 翻译计划 <a id="translate"></a>
 
 * [\#1 Brian Eno 生成性音乐 Generative Music](translate/1.md)
-* [\#2 Chris Bell 面向友情的设计 Designing For Friendship](translate/chris-bell-mian-xiang-you-qing-de-she-ji-designing-for-friendship.md)
+* [\#2 Chris Bell 面向友情的设计 Designing For Friendship](translate/2.md)
 
