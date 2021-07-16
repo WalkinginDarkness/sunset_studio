@@ -69,5 +69,5 @@
 
 ## Demos
 
-* [《回 声 SOUND RETURN》CiGA Game Jam 2021](demos/hui-sheng-sound-returnciga-game-jam-2021.md)
+* [《回 声 SOUND RETURN》CiGA Game Jam 2021](demos/soundreturn.md)
 

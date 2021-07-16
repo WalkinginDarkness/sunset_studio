@@ -69,7 +69,7 @@ description: 游戏跨界 xpaidia media lab
 
 
 
-❤ 感谢：@昕仔 @某小熊猫猫 @少楠 @Bob傅丰元 @小河shan @希辰Xichen @小乐 @DC @Bynn @webber @绅士凯布雷克 @Minke @Roam @兜&敏 @KIDD @菲兹 @喵呜 @李喆
+❤ 感谢：@昕仔 @某小熊猫猫 @少楠 @Bob傅丰元 @小河shan @希辰Xichen @小乐 @DC @Bynn @webber @绅士凯布雷克 @Minke @Roam @兜&敏 @KIDD @菲兹 @喵呜 @李喆 @特特 @Skellig
 
 特别感谢 [井盖chat ](https://jgchat.net/)对落日间的赞助支持
 
