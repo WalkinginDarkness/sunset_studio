@@ -67,3 +67,7 @@
 * [\#1 Brian Eno 生成性音乐 Generative Music](translate/1.md)
 * [\#2 Chris Bell 面向友情的设计 Designing For Friendship](translate/2.md)
 
+## Demos
+
+* [《回 声 SOUND RETURN》CiGA Game Jam 2021](demos/hui-sheng-sound-returnciga-game-jam-2021.md)
+
