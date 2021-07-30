@@ -6,6 +6,7 @@
 ## Update 更新 <a id="update"></a>
 
 * [落日间 Podcast](update/podcast/README.md)
+  * [E25  做个哲学游戏吧！——在语言之前的，和那比语言更多的](update/podcast/e25.md)
   * [E24 行走在资本与游戏边缘 \| x 游戏矩阵](update/podcast/e24.md)
   * [E23 在哲学与游戏之间 \| 姜宇辉 x 落日间](update/podcast/e23.md)
   * [E22 氪金游戏都在骗钱，而艺术家理应穷苦吗 \| 落日间 x 聊声与无](update/podcast/e22.md)
