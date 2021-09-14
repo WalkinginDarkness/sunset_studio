@@ -6,6 +6,7 @@
 ## Update 更新 <a id="update"></a>
 
 * [落日间 Podcast](update/podcast/README.md)
+  * [E27 异乡的两生花：再谈游戏与当代艺术中的现实主义，批评与作品 \| 落日间 x 卡壳](update/podcast/e27.md)
   * [E25  做个哲学游戏吧！\| 落日间 x NExT Studios](update/podcast/e25.md)
   * [E24 行走在资本与游戏边缘 \| x 游戏矩阵](update/podcast/e24.md)
   * [E23 在哲学与游戏之间 \| 姜宇辉 x 落日间](update/podcast/e23.md)
