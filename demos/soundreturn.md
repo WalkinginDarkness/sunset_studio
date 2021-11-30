@@ -2,7 +2,7 @@
 
 请扫码直接体验，建议佩戴耳机
 
-![](https://pic1.zhimg.com/80/v2-fc4da345e230b2da24f867f6b3cb5f44_720w.jpg)
+![](https://pic1.zhimg.com/80/v2-fc4da345e230b2da24f867f6b3cb5f44\_720w.jpg)
 
 （特别是安卓手机，可能会出现分辨率有问题导致UI消失的问题，麻烦进行刷新或者是通过不同的外部浏览器进行打开尝试，请谅解）
 
@@ -10,7 +10,7 @@
 
 一个名副其实的「声音解谜」游戏。
 
-落日间出品 \| Demo
+落日间出品 | Demo
 
 
 
@@ -54,7 +54,7 @@ GameJam参加是没有门槛的，是作为我鼓励很多没有游戏开发经�
 
 每次的GameJam都会有一个主题在开始的时候公布，本次出题依旧是CiGA Game Jam 「臭名昭著」的图片解读题：作为一个主要还是做自己想做的想法，并且solo的老油条，我大概是这样附会声音的音轨，而这个还原的解谜又是如何将声音拉回「正轨」的（胡说八道）
 
-![](https://pic1.zhimg.com/80/v2-0a9611af84d6e099f1172c4c08ce305c_720w.jpg)
+![](https://pic1.zhimg.com/80/v2-0a9611af84d6e099f1172c4c08ce305c\_720w.jpg)
 
 关于CiGA GameJam的活动以及题目等其他内容可以参考 [2021 CiGA Game Jam回顾，对于游戏开发的热爱把我们聚集到了一起 ](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/hfsa62qqOmV-D8Scpum6bA)， 参加GameJam的朋友太多了，我只推荐同场的作品吧：
 
@@ -86,13 +86,13 @@ Web Audio API。
 
 这往往可能是通过analog模拟信号（电流）或数字信号来进行声音的制作，声音通过振荡器（oscillator）发出，并且这样的信号可以通过各种类似滤波器（Filters）的「控件 controls」来进行塑造，可以并且可以使用包络曲线（Envelopes），低频振荡器（LFO）等方式进行调制（modulation）。
 
-关于这部分的内容我推荐大家可以去重轻老师的B站账号进行学习，他有对于合成器很棒的解说，而Ableton Live 所做的交互式教学页面，无论是很棒的合成器入门 Learning Synth [https://learningsynths.ableton.com/zh-Hans/](https://link.zhihu.com/?target=https%3A//learningsynths.ableton.com/zh-Hans/) ，还是很棒的音乐入门 Learning Music [https://learningmusic.ableton.com/zh-Hans/](https://link.zhihu.com/?target=https%3A//learningmusic.ableton.com/zh-Hans/) （这两个交互教程都有中文）。
+关于这部分的内容我推荐大家可以去重轻老师的B站账号进行学习，他有对于合成器很棒的解说，而Ableton Live 所做的交互式教学页面，无论是很棒的合成器入门 Learning Synth [https://learningsynths.ableton.com/zh-Hans/](https://link.zhihu.com/?target=https%3A//learningsynths.ableton.com/zh-Hans) ，还是很棒的音乐入门 Learning Music [https://learningmusic.ableton.com/zh-Hans/](https://link.zhihu.com/?target=https%3A//learningmusic.ableton.com/zh-Hans) （这两个交互教程都有中文）。
 
-![](https://pic1.zhimg.com/80/v2-7bed69c88573cddcb20113d8f609e24c_720w.jpg)
+![](https://pic1.zhimg.com/80/v2-7bed69c88573cddcb20113d8f609e24c\_720w.jpg)
 
 上面我提到的那位老哥也在二十分钟内简单介绍了单音合成器 Monophonic Synthesis 加法合成器 Addictive Synthesis 减法合成器 Substractive Synthesis 调频合成 FM Synthesis 采样合成 Sampling Synthesis 粒子合成 Granular Synthesis 等。
 
-但是这件事有趣的就在于，他并不是展示一台又一台的合成器，也并不是打开类似 Ableton Live 这样的数字音频工作站（DAW），而是使用了简单的网页，而这些代码全部都可以在 [github.com/chrislo/synth\_history](https://link.zhihu.com/?target=http%3A//github.com/chrislo/synth_history) 中访问到，他的分享的结尾提到了最早制造一批在贝尔实验室做计算机音乐的老前辈 Max Matthews 分享的一句话：
+但是这件事有趣的就在于，他并不是展示一台又一台的合成器，也并不是打开类似 Ableton Live 这样的数字音频工作站（DAW），而是使用了简单的网页，而这些代码全部都可以在 [github.com/chrislo/synth\_history](https://link.zhihu.com/?target=http%3A//github.com/chrislo/synth\_history) 中访问到，他的分享的结尾提到了最早制造一批在贝尔实验室做计算机音乐的老前辈 Max Matthews 分享的一句话：
 
 **计算机是一切的/全体的乐器 the computer is the universal instrument。**
 
@@ -100,13 +100,13 @@ Web Audio API。
 
 那就是Web Audio API
 
-![Max Matthews](https://pic1.zhimg.com/80/v2-7684f0231e3e563c67efa31b9fcd3778_720w.jpg)
+![Max Matthews](https://pic1.zhimg.com/80/v2-7684f0231e3e563c67efa31b9fcd3778\_720w.jpg)
 
 Web Audio API 可以让你在任何Web应用程序中创建和处理声音，有一位名为Tepora的老哥在上做了非常棒的两个教程，我在知乎放出了部分的我的笔记，在 Learn Web Audio from the Ground Up 中，他面向没有任何音乐/音频的JavaScript 开发者做了一个音乐 + Web Audio的科普，其中不乏类似对于十分重要的泛音列的科普。
 
 而在后续的另一个教程中，JavaScript Systems Music - Learning Web Audio by Recreating The Works of Steve Reich and Brian Eno ，他手把手地继续教我们如何使用Web Audio 进行基本的循环来复刻名作 Steve Reich - It‘s Gonna Rain ，通过使用采样计算音程并且使用卷积混响来制作 Brian Eno Ambient 1: Music for Airports, 2/1 1978，以及简单介绍了基于Web Audio API的 JavaScript的库，也正是这次我的GameJam所使用的 Tone.js，用于来更方便地创建合成器来模拟重现 Brian Eno 的旧作 Discreet Music 1975（他所使用的 Tone.js 的API有些老旧，部分还需要重新查阅Tone.js 的官方最新文档）。
 
-![](https://pic4.zhimg.com/80/v2-e0fec3a121012429e403ad98cb9755d7_720w.jpg)
+![](https://pic4.zhimg.com/80/v2-e0fec3a121012429e403ad98cb9755d7\_720w.jpg)
 
 两篇笔记：
 
@@ -126,15 +126,15 @@ Web Audio API 可以让你在任何Web应用程序中创建和处理声音，有
 
 使用Pixi.js 的原因主要是因为我很喜欢的游戏开发者Nicky Case例如他的名作《信任的进化 The Evolution of Trust》也是使用了Pixi.js来做渲染的，不过他是一个专业的网页开发者，混合了非常多原生的h5代码和其他的库，这个作品也是开源的，在Github上有近五千的Star。
 
-![](https://pic3.zhimg.com/80/v2-2148dc627cb05c0f50cd1b04545ad6b6_720w.jpg)
+![](https://pic3.zhimg.com/80/v2-2148dc627cb05c0f50cd1b04545ad6b6\_720w.jpg)
 
-信任的进化 [http://ncase.me/trust/](https://link.zhihu.com/?target=http%3A//ncase.me/trust/)
+信任的进化 [http://ncase.me/trust/](https://link.zhihu.com/?target=http%3A//ncase.me/trust)
 
 [https://github.com/ncase/trust](https://link.zhihu.com/?target=https%3A//github.com/ncase/trust)
 
 我觉得非常神奇的，并且在先前腾讯研究院邀请我去做的关于Metaverse和创作者的分享中，我主要提的对于元宇宙的想象其实是近乎等同于Web的，因为我意识到与类似Unity的游戏引擎不同，对于这样的一个Web开发，这是一个充满变化，充满分享和奇妙场所，你可以通过简单的
 
-```text
+```
 <scirpt src = "... "></script>
 ```
 
@@ -154,7 +154,7 @@ Web Audio API 可以让你在任何Web应用程序中创建和处理声音，有
 
 **Level 1**
 
-![](https://pic4.zhimg.com/80/v2-418d7c806b8ec2ee74b599b28eb35e97_720w.jpg)
+![](https://pic4.zhimg.com/80/v2-418d7c806b8ec2ee74b599b28eb35e97\_720w.jpg)
 
 所以对于关卡1，实际上这样的一只小兔子 🐰 ，被创建的同时也创建了一个合成器，而这个合成器的频率（Frequency），也是我们常说的音高（Pitch），被我设定是由兔子之于屏幕的 x 轴的位置决定的，所以在左右拖动的时候，可以很清晰地听到音高的变化。
 
@@ -162,7 +162,7 @@ Web Audio API 可以让你在任何Web应用程序中创建和处理声音，有
 
 **Level 2**
 
-![](https://pic1.zhimg.com/80/v2-e330f47c100bbf57a0f4c7b2cce9dc80_720w.jpg)
+![](https://pic1.zhimg.com/80/v2-e330f47c100bbf57a0f4c7b2cce9dc80\_720w.jpg)
 
 第二关是很早就想到的，其实最早也是希望做出更多类似的有独立的碰撞逻辑的声音循环，玩家通过引导这些小兔子到正确的轨道上发出正确的声音，但结果却做了这个有些不合理的谜题。
 
@@ -196,7 +196,7 @@ Web Audio API 可以让你在任何Web应用程序中创建和处理声音，有
 
 兔子的 X 轴实际上代表着 循环的磁头的开始 LoopStart，而Y 轴代表循环磁头的结尾 LoopEnd：
 
-![](https://pic3.zhimg.com/80/v2-8cc2e1d9b5550aed7cc70ff6a18f756a_720w.jpg)
+![](https://pic3.zhimg.com/80/v2-8cc2e1d9b5550aed7cc70ff6a18f756a\_720w.jpg)
 
 这就是为什么当兔子越过对角线的时候就停止的原因：循环开始的磁头超过了结束的时间点，所以循环播放停止了。
 
@@ -204,7 +204,7 @@ Web Audio API 可以让你在任何Web应用程序中创建和处理声音，有
 
 **Level 5**
 
-![](https://pic4.zhimg.com/80/v2-418d7c806b8ec2ee74b599b28eb35e97_720w.jpg)
+![](https://pic4.zhimg.com/80/v2-418d7c806b8ec2ee74b599b28eb35e97\_720w.jpg)
 
 这一关和第一关的触发方式类似，但是不同的地方在于，这只兔子背后不再是单音合成器，而是一个双合成器 DuoSynth。
 
@@ -234,15 +234,14 @@ It's just an exercise to combine the web audio, render, and interaction, but I c
 
 落日间的其他游戏作品可见
 
-[剑入禅境 Sword Zen \| Global Game Jam 2021](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247485641%26idx%3D1%26sn%3Da886a170c2add461c3ec4413504f333d%26chksm%3De89714dddfe09dcbdc9013e6c075ffa1ae04f26eccc7a8448cd7369ca7966362068b6456e70c%26scene%3D21%23wechat_redirect)
+[剑入禅境 Sword Zen | Global Game Jam 2021](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F\_\_biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247485641%26idx%3D1%26sn%3Da886a170c2add461c3ec4413504f333d%26chksm%3De89714dddfe09dcbdc9013e6c075ffa1ae04f26eccc7a8448cd7369ca7966362068b6456e70c%26scene%3D21%23wechat\_redirect)
 
-[人生不是永远开不完的硬纸板箱](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247485218%26idx%3D1%26sn%3Ddd65c4ef467ed79e2fe3c57266d0b0f8%26chksm%3De8971b36dfe0922015c3ecc9816acc7d569b71f825ac69ebdd0752886170e85236c2d1ab8077%26scene%3D21%23wechat_redirect)[游戏0x007C：Là-bas \#1](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247484955%26idx%3D1%26sn%3D4aa44d5d16a4e36fe827b8cd12941b39%26chksm%3De8971a0fdfe09319ebf945fccc84106c8d68633cc95d6b7dfbe97a2b9f193fe8ad8bd6f6c3e4%26scene%3D21%23wechat_redirect)
+[人生不是永远开不完的硬纸板箱](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F\_\_biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247485218%26idx%3D1%26sn%3Ddd65c4ef467ed79e2fe3c57266d0b0f8%26chksm%3De8971b36dfe0922015c3ecc9816acc7d569b71f825ac69ebdd0752886170e85236c2d1ab8077%26scene%3D21%23wechat\_redirect)[游戏0x007C：Là-bas #1](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F\_\_biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247484955%26idx%3D1%26sn%3D4aa44d5d16a4e36fe827b8cd12941b39%26chksm%3De8971a0fdfe09319ebf945fccc84106c8d68633cc95d6b7dfbe97a2b9f193fe8ad8bd6f6c3e4%26scene%3D21%23wechat\_redirect)
 
-[游戏0x006A：S E E K](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247484825%26idx%3D1%26sn%3D19706cedbbcdb9f681e096a4c56ab8c2%26chksm%3De897198ddfe0909b9a06ecfb50f9b94e24ae5191103af45a1887f3395b51c73c4897f7e0543d%26scene%3D21%23wechat_redirect) （前年CiGA全场最佳）
+[游戏0x006A：S E E K](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F\_\_biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247484825%26idx%3D1%26sn%3D19706cedbbcdb9f681e096a4c56ab8c2%26chksm%3De897198ddfe0909b9a06ecfb50f9b94e24ae5191103af45a1887f3395b51c73c4897f7e0543d%26scene%3D21%23wechat\_redirect) （前年CiGA全场最佳）
 
-[游戏0x0069：我做的游戏好难玩](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247484793%26idx%3D1%26sn%3D934789ac5d2d7307a1bd5fccba50b867%26chksm%3De897196ddfe0907b2148eb9bc71ab8e2d10d50daab52426fd5cd1cf0cbf17684eda093e1e36b%26scene%3D21%23wechat_redirect)[游戏0x0064：EI Hacedor](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247484741%26idx%3D1%26sn%3Dd90155e2f0545c9206bc1109e85d2280%26chksm%3De8971951dfe090477d1b03ed96aa6432da93c2cd11c943b551c53a18c9a99bb5b02ed55f9607%26scene%3D21%23wechat_redirect)
+[游戏0x0069：我做的游戏好难玩](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F\_\_biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247484793%26idx%3D1%26sn%3D934789ac5d2d7307a1bd5fccba50b867%26chksm%3De897196ddfe0907b2148eb9bc71ab8e2d10d50daab52426fd5cd1cf0cbf17684eda093e1e36b%26scene%3D21%23wechat\_redirect)[游戏0x0064：EI Hacedor](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F\_\_biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247484741%26idx%3D1%26sn%3Dd90155e2f0545c9206bc1109e85d2280%26chksm%3De8971951dfe090477d1b03ed96aa6432da93c2cd11c943b551c53a18c9a99bb5b02ed55f9607%26scene%3D21%23wechat\_redirect)
 
 这也是落日间第一次尝试直接在公众号上制作可以直接体验和跳转的游戏作品，会看情况增加更多这样的呈现形式：）
 
 感谢游玩和阅读！
-

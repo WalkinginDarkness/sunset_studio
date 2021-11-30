@@ -18,14 +18,13 @@
 
 
 
-  
+\
 
 
 叶梓涛
 
 2021/5/18
 
-虚构手册是跨界游戏媒体实验室「落日间」旗下的写作计划，更多落日间的内容、社群可参考 [落日间xpaidia](https://docs.xpaidia.com/)
+虚构手册是跨界游戏媒体实验室「落日间」旗下的写作计划，更多落日间的内容、社群可参考 [落日间xpaidia](https://docs.xpaidia.com)
 
-❤ 如果你愿意，可以[「支持我们」](https://afdian.net/@sunset_studio)
-
+❤ 如果你愿意，可以[「支持我们」](https://afdian.net/@sunset\_studio)

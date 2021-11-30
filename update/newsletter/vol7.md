@@ -4,13 +4,13 @@ description: 做一件事的方式就是你做所有事的方式
 
 # vol.7 穿好衣服
 
-![](https://sunset-1303964997.cos.ap-shanghai.myqcloud.com/Images/vol7/cover_vol7.png)
+![](../../.gitbook/assets/cover\_vol7\_slim.png)
 
 从上一封Newsletter到现在，我建立了我最基本的「穿衣自觉」，同时思考「落日间」品牌的事。
 
 然后我发觉，这是同一件事。
 
-#### 
+####
 
 ### 1 祛魅
 
@@ -28,7 +28,7 @@ description: 做一件事的方式就是你做所有事的方式
 
 > 因为服装风格本身并不是最终目的，相反，它是一扇大门，通往你所追求的改变。通过改变服装来改变自己的生活是可能的。
 
-#### 
+####
 
 ### 2 意义 → 价值
 
@@ -82,7 +82,7 @@ description: 做一件事的方式就是你做所有事的方式
 
 因为**做一件事的方式就是你做所有事的方式。**
 
-#### 
+####
 
 ### 4 修饰与穿衣
 
@@ -253,41 +253,39 @@ description: 做一件事的方式就是你做所有事的方式
 
 🐏vol 7 2020/02/14-2021/03/28
 
-02/18 在豆瓣上建了关于 文科生的[四个豆瓣书单](https://www.douban.com/people/96753197/subject_doulists/book)
+02/18 在豆瓣上建了关于 文科生的[四个豆瓣书单](https://www.douban.com/people/96753197/subject\_doulists/book)
 
 02/20 书单这件事引起了我对自己的反思和对落日间到底是在做什么的长久思考，开启了品牌与商业，内容与平台之思。
 
-02/23 发布落日间 Live 系列节目Live\#2，[失落的理想主义:新时代独立游戏生存谈](https://mp.weixin.qq.com/s/NOnrsI1R32dBK4gEv8xQeQ)。落日间开通微博账号，只为了同步发布内容 @落日间
+02/23 发布落日间 Live 系列节目Live#2，[失落的理想主义:新时代独立游戏生存谈](https://mp.weixin.qq.com/s/NOnrsI1R32dBK4gEv8xQeQ)。落日间开通微博账号，只为了同步发布内容 @落日间
 
-02/24 整理第一次的落日间 Live 的回顾:[Metaverse 虚实之间:游戏的未来](https://mp.weixin.qq.com/s/jK8edU-TSEzS6lF_6aLLyg) 于 公众号发布。
+02/24 整理第一次的落日间 Live 的回顾:[Metaverse 虚实之间:游戏的未来](https://mp.weixin.qq.com/s/jK8edU-TSEzS6lF\_6aLLyg) 于 公众号发布。
 
 02/25 新短播客项目[《落日尚徘徊》](https://www.xiaoyuzhoufm.com/podcast/603735c3c24a73cb5e8ea3ee?s=eyJ1IjogIjVlYmNkNzkwMjFhYzg1ODA0MTJiNzcxMCJ9)进行实验，已经更新满五期，这期Newsletter的很多内容思考痕迹能在播客找到。
 
 询问朋友"你认为落日间是什么? / 你最喜欢的部分是什么? / 你觉得做得不够好的地方呢? "
 
-02/26 发布落日间 [E20 谜与顿悟 \| Artless x 落日间](https://mp.weixin.qq.com/s/AjEHnyNicXILLMAhYEvAfQ)
+02/26 发布落日间 [E20 谜与顿悟 | Artless x 落日间](https://mp.weixin.qq.com/s/AjEHnyNicXILLMAhYEvAfQ)
 
 03/01 因为某些机缘，落日间E20 间接推动了让Jonathan Blow 直播了《Understand》
 
 新项目启动:[The Game Flux Monthly 激流 - 一份免费的付费内容计划](https://mp.weixin.qq.com/s/xksc0NH9jptd7Q6xSeLiLg) 并发出第一封会员通讯
 
-发布 [爱发电的 donation 计划](https://afdian.net/@sunset_studio)，并且得到了许多朋友的支持。
+发布 [爱发电的 donation 计划](https://afdian.net/@sunset\_studio)，并且得到了许多朋友的支持。
 
 03/03 感谢友人推荐，播客《落日间》登上苹果播客Podcast新品推荐
 
-03/06 与《聊声与无》主播/落日间会员 DC 录制串台播客，《聊声与无》已发布为 [《野行行Vol.003 \| “氪金设计”和“独立艺术”中间还有什么？【聊声与无 X 落日间】》](https://www.xiaoyuzhoufm.com/episode/6055842b892e07b459396367?s=eyJ1IjogIjVlYmNkNzkwMjFhYzg1ODA0MTJiNzcxMCJ9) ，落日间会随着下一封关于商业的newsletter进行发布。
+03/06 与《聊声与无》主播/落日间会员 DC 录制串台播客，《聊声与无》已发布为 [《野行行Vol.003 | “氪金设计”和“独立艺术”中间还有什么？【聊声与无 X 落日间】》](https://www.xiaoyuzhoufm.com/episode/6055842b892e07b459396367?s=eyJ1IjogIjVlYmNkNzkwMjFhYzg1ODA0MTJiNzcxMCJ9) ，落日间会随着下一封关于商业的newsletter进行发布。
 
-03/07 举行线上活动 [落日间 Live\#3 Ghost & Shell 人工智能与游戏](https://mp.weixin.qq.com/s/L_ro4dh5KmJELPVMEi1Utg)
+03/07 举行线上活动 [落日间 Live#3 Ghost & Shell 人工智能与游戏](https://mp.weixin.qq.com/s/L\_ro4dh5KmJELPVMEi1Utg)
 
-03/08 少楠老师将落日间加入 [产品沉思录](https://pmthinking.com/)的友情推荐
+03/08 少楠老师将落日间加入 [产品沉思录](https://pmthinking.com)的友情推荐
 
-03/12 进一部推动落日间[井盖chat社群](sunset.jgchat.net)建设，增加 \#每日一问 群组活动 以及 \#日 \| 落 翻译计划 、建立 游戏 x 人工智能，游戏开发等栏目，目前已有305人，并且非常感谢井盖chat 成为落日间第一家的商业合作支持。
+03/12 进一部推动落日间[井盖chat社群](https://app.gitbook.com/s/-MSk3cbkW29VtZARx0pE/update/newsletter/sunset.jgchat.net)建设，增加 #每日一问 群组活动 以及 #日 | 落 翻译计划 、建立 游戏 x 人工智能，游戏开发等栏目，目前已有305人，并且非常感谢井盖chat 成为落日间第一家的商业合作支持。
 
 03/16 得知《有限与无限游戏》作者 James Carse 过世，想起我曾收到的他的回信，自警需加倍努力。
 
-![](https://sunset-1303964997.cos.ap-shanghai.myqcloud.com/Images/vol7/carseReturn.jpg)
+![](../../.gitbook/assets/carseReturn.jpg)
 
-03/24 与yichi讨论 xpaidia.com 的官网后台改造，计划将Ghost修改为gitbook，创建落日间的COS对象存储，尝试[game.xpaidia.com](https://game.xpaidia.com/)的域名绑定
-
-
+03/24 与yichi讨论 xpaidia.com 的官网后台改造，计划将Ghost修改为gitbook，创建落日间的COS对象存储，尝试[game.xpaidia.com](https://game.xpaidia.com)的域名绑定
 

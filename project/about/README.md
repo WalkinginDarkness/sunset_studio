@@ -14,15 +14,19 @@ Guide 去掉而转向 Gide，只因想起 安德烈·纪德在《人间地粮》
 
 **「把书都烧掉，然后出走吧」**
 
-\*\*\*\*
+****
 
 希望这些能够帮助你更好的前进
 
 
 
-{% page-ref page="01.md" %}
+{% content-ref url="01.md" %}
+[01.md](01.md)
+{% endcontent-ref %}
 
-{% page-ref page="02.md" %}
+{% content-ref url="02.md" %}
+[02.md](02.md)
+{% endcontent-ref %}
 
 
 
@@ -35,4 +39,3 @@ Guide 去掉而转向 Gide，只因想起 安德烈·纪德在《人间地粮》
 叶梓涛
 
 2021/5/11 落日间
-

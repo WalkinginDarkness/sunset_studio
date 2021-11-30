@@ -115,7 +115,7 @@ description: 放弃应该放弃的，是为了不放弃那些不想放弃的
 
 **放弃应该放弃的，是为了不放弃那些不想放弃的。**
 
-## 🐖 本段时间进展
+## :pig2: 本段时间进展
 
 2020/11/12-12/08
 
@@ -127,7 +127,7 @@ description: 放弃应该放弃的，是为了不放弃那些不想放弃的
 
 知乎写作《[在最难熬的时候，哪些游戏给了你力量？](https://www.zhihu.com/question/432724835/answer/1607439594)》以及《[身为游戏从业者，玩游戏时你们有过哪些“职业病”？](https://www.zhihu.com/question/432724879/answer/1607419641)》，后者被游戏葡萄[转发](https://mp.weixin.qq.com/s/RZqaHuiaGHM5WCrAWyrbLw)
 
-参加华东师范大学 “游戏致/至死”——[游戏与哲学一日谈](https://www.thepaper.cn/newsDetail_forward_10201281) 《游戏的高度“严肃性”》
+参加华东师范大学 “游戏致/至死”——[游戏与哲学一日谈](https://www.thepaper.cn/newsDetail\_forward\_10201281) 《游戏的高度“严肃性”》
 
 「落日间」以游戏文化工作室品牌身份参与到山中天艺术中心的《[乌力波60周年：从自己制造的迷宫中逃出去](https://mp.weixin.qq.com/s/rXtcD1uB2rMz640-OkCxnQ)》，制作了一个填字小游戏《[寻找乌力波](https://xpaidia.com/lab/game/oulipo/)》，后会有专门介绍。
 
@@ -138,4 +138,3 @@ description: 放弃应该放弃的，是为了不放弃那些不想放弃的
 叶梓涛
 
 2020.12.08
-

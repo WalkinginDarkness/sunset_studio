@@ -4,14 +4,14 @@ description: 我感觉自己必须向后回溯，越过帕特农神庙的石马�
 
 # 游戏设计中的时间
 
-本文写作于2020/09，发布于[公众号](https://mp.weixin.qq.com/s?__biz=MzIzMjM0NDk1NQ==&mid=2247485340&idx=1&sn=7ba6abbde5a4b70fb9f168f92edff05e&chksm=e8971b88dfe0929edd794fa8138aaa1003d3ec5ea146ef8059266f14eeee0b4563e32d42ab91&token=2101092556&lang=zh_CN#rd)，非学术文章，仅提供相关游戏的浏览
+本文写作于2020/09，发布于[公众号](https://mp.weixin.qq.com/s?\_\_biz=MzIzMjM0NDk1NQ==\&mid=2247485340\&idx=1\&sn=7ba6abbde5a4b70fb9f168f92edff05e\&chksm=e8971b88dfe0929edd794fa8138aaa1003d3ec5ea146ef8059266f14eeee0b4563e32d42ab91\&token=2101092556\&lang=zh\_CN#rd)，非学术文章，仅提供相关游戏的浏览
 
-> 然而，只有在时间内部，  
-> 那玫瑰园中的一瞬，那凉亭下雨点急速拍打的一瞬，   
-> 那微风习习的教堂中烟雾降临的一瞬，   
-> 才能够被记起；交缠在过去和未来之间，   
-> 只有在时间之中，才能征服时间。   
->   
+> 然而，只有在时间内部，\
+> 那玫瑰园中的一瞬，那凉亭下雨点急速拍打的一瞬， \
+> 那微风习习的教堂中烟雾降临的一瞬， \
+> 才能够被记起；交缠在过去和未来之间， \
+> 只有在时间之中，才能征服时间。 \
+> \
 > —— T·S Eliot
 
 ![](../../.gitbook/assets/temps.png)
@@ -24,11 +24,11 @@ description: 我感觉自己必须向后回溯，越过帕特农神庙的石马�
 
 在作品中表现时间，这是很多不同媒介不同形式的作品都尝试过的。意识流的小说暂且不论，杜尚的未来主义尝试，《下楼梯的裸女》在早期的各种作品中都尝试着捕捉时间在同一画面上的展示。
 
-![&#xFF08;Nude Descending a Staircase, No.2 Marcel Duchamp &#xB7; 1912 &#xFF09;](../../.gitbook/assets/nude-descending-a-staircase-no.2-marcel-duchamp-1912-.png)
+![（Nude Descending a Staircase, No.2 Marcel Duchamp · 1912 ）](../../.gitbook/assets/nude-descending-a-staircase-no.2-marcel-duchamp-1912-.png)
 
-葛哈·李希特（Gerhard Richter）的摄影作品的某种奇特的虚幻感和布列松（Henri Cartier-Bresson），所寻找的“决定性瞬间”——寻找瞬间中美丽的偶然\(en quête du bel hasard de l’instant “involontaire”\)，并使得他可以到达某些永恒的必然性\(atteindre à la nécessité immuable “éternel”\) 之间恰好形成了某种对应的美妙关系。
+葛哈·李希特（Gerhard Richter）的摄影作品的某种奇特的虚幻感和布列松（Henri Cartier-Bresson），所寻找的“决定性瞬间”——寻找瞬间中美丽的偶然(en quête du bel hasard de l’instant “involontaire”)，并使得他可以到达某些永恒的必然性(atteindre à la nécessité immuable “éternel”) 之间恰好形成了某种对应的美妙关系。
 
-![\(Reading Gerhard Richter &#xB7; 1994\)](../../.gitbook/assets/shot.png)
+![(Reading Gerhard Richter · 1994)](../../.gitbook/assets/shot.png)
 
 艺术家邱志杰将现代艺术归出的四条线索，其中一条便是“过程的体验”。在古典主义的艺术中的“时间”是全然不均等的，只有决定性、史诗性的瞬间才有意义，而期间的大段空白毫无意义。到了印象派，则转变为某种机械式的时间，每一瞬间可以不完美，但是并不真的缺乏魅力。在这样的瞬息的变化之中，塞尚试图捕捉关系的永恒，而未来主义则走向了狂欢，甚至发展为“让作品自身成为一种能生长的有机物，让时间的属性成为作品的一部分”，如同Yves Klein以及R.Smithson的作品一般。最终发展的技术的发展让人们越来越能够将这样的过程来体验，一切都被储存，一切都可被重演，重新体验。
 
@@ -38,11 +38,11 @@ description: 我感觉自己必须向后回溯，越过帕特农神庙的石马�
 
 而在后文谈及乔治·克鲁佐的《毕加索的秘密》的时候，更是指出了其带来的第二次的革命，绘画作为时间性的存在，时间延续可以成为作品的一部分，而绘画过程中的生成、修改、变异，甚至“死亡”都有其自身的延续——柏格森式的影片。
 
-![Le myst&#xE8;re Picasso \(1956\)](../../.gitbook/assets/bi-jia-suo-de-mi-mi-.png)
+![Le mystère Picasso (1956)](../../.gitbook/assets/bi-jia-suo-de-mi-mi-.png)
 
-电影可以通过蒙太奇或者镜头的时间来加速和慢放时间，也能像是沃霍尔的《帝国大厦》一样，纪实式地将物理时间与电影时间严整对齐。阿涅斯·瓦尔达（Agnès Varda）作为新浪潮祖母级的人物，大概她也热爱着时间吧，《五至七时的奇奥 \(Cléo de 5 à 7\)》是“实时电影”的独特代表作，而《尤利西斯 Ulysse（1982）》则将回忆中虚幻的时间，微小的个人与时代的全球的时间所联系在一起，交相缠绕出一张独特的网；而从电影的本体论角度，塔可夫斯基称电影的创作过程为“雕刻时光”是颇有道理的。
+电影可以通过蒙太奇或者镜头的时间来加速和慢放时间，也能像是沃霍尔的《帝国大厦》一样，纪实式地将物理时间与电影时间严整对齐。阿涅斯·瓦尔达（Agnès Varda）作为新浪潮祖母级的人物，大概她也热爱着时间吧，《五至七时的奇奥 (Cléo de 5 à 7)》是“实时电影”的独特代表作，而《尤利西斯 Ulysse（1982）》则将回忆中虚幻的时间，微小的个人与时代的全球的时间所联系在一起，交相缠绕出一张独特的网；而从电影的本体论角度，塔可夫斯基称电影的创作过程为“雕刻时光”是颇有道理的。
 
-而无论何种艺术，在与观者相遇的时候，总是在时间中展开自身的，从斯蒂格勒意义上，这都是一个第三存留（tertiary retention），通过它们，我们才能找回第二存留\(记忆和想象\)，而后到达第一存留。
+而无论何种艺术，在与观者相遇的时候，总是在时间中展开自身的，从斯蒂格勒意义上，这都是一个第三存留（tertiary retention），通过它们，我们才能找回第二存留(记忆和想象)，而后到达第一存留。
 
 而游戏又是怎么一个独特的方式来运用和表达时间的呢？
 
@@ -56,7 +56,7 @@ description: 我感觉自己必须向后回溯，越过帕特农神庙的石马�
 
 所以在这个意义上，“时间”在游戏中并没有被独立出来，而是作为一种辅助手段来强调游戏的沉浸和游戏的真实，似乎可以先以“时间感”来称呼（被独立出来的下文会讨论），而这实际上只是动画速度带来的幻觉。
 
-游戏可以很轻易地营造出一种独特的时间感的“场”，带给玩家完完全全地时间感的真切体验。能够想象《GTA5》的世界中，你开着车到海边，下车，看着太阳一点点地下沉，世界的光影在一点点地变化，你此刻处在的状态或许完全就沉浸在了游戏时空的场中，你的感官、现象世界是被游戏中的时空元素所充斥，就好像为什么玩起游戏来，很容易忘记现实中的时间，大概是因为玩游戏过程中的你的主观时间，或者是时间知觉\( Time Perception \) 几乎完全是与游戏中的时间感相符合的，所以当你玩游戏突然被现实中的事物打扰，意向转回现实世界，那么往往会有种“脱出感”，恍然如梦。
+游戏可以很轻易地营造出一种独特的时间感的“场”，带给玩家完完全全地时间感的真切体验。能够想象《GTA5》的世界中，你开着车到海边，下车，看着太阳一点点地下沉，世界的光影在一点点地变化，你此刻处在的状态或许完全就沉浸在了游戏时空的场中，你的感官、现象世界是被游戏中的时空元素所充斥，就好像为什么玩起游戏来，很容易忘记现实中的时间，大概是因为玩游戏过程中的你的主观时间，或者是时间知觉( Time Perception ) 几乎完全是与游戏中的时间感相符合的，所以当你玩游戏突然被现实中的事物打扰，意向转回现实世界，那么往往会有种“脱出感”，恍然如梦。
 
 当然游戏中对时间感的营造往往是有错位的，并不是完全以现实世界为参照的。诸如很多游戏中的昼夜交替额外地快，例如《对马岛之鬼》，几乎走一段时间就换一换。
 
@@ -118,21 +118,21 @@ description: 我感觉自己必须向后回溯，越过帕特农神庙的石马�
 
 ——《Outer Wilds 星际拓荒》《Dead Rising》《Vision Soft Reset》
 
-先前曾经翻译过游戏设计师Pietro Righi Riva的**非传统可玩媒体宣言\(nontraditional playable manifesto\)** [游戏0x0060：rejecta](http://mp.weixin.qq.com/s?__biz=MzIzMjM0NDk1NQ==&mid=2247484662&idx=1&sn=3967e416475e9de9296fcc9a27c629a4&chksm=e89718e2dfe091f4770f57b0d4df1047a912de0950ddeac7f353610f42ee863e38a0e9195ace&scene=21#wechat_redirect) 其中的第一条便是如下表述：
+先前曾经翻译过游戏设计师Pietro Righi Riva的**非传统可玩媒体宣言(nontraditional playable manifesto)** [游戏0x0060：rejecta](http://mp.weixin.qq.com/s?\_\_biz=MzIzMjM0NDk1NQ==\&mid=2247484662\&idx=1\&sn=3967e416475e9de9296fcc9a27c629a4\&chksm=e89718e2dfe091f4770f57b0d4df1047a912de0950ddeac7f353610f42ee863e38a0e9195ace\&scene=21#wechat\_redirect) 其中的第一条便是如下表述：
 
 _The game must flow like a river, time must exist beyond player’s action_
 
 _一个游戏应该如同河水般自如流动，时间的运转应该超越出玩家的行动_
 
-_a\) Action must always happen in real time, the world’s time must never be frozen_
+_a) Action must always happen in real time, the world’s time must never be frozen_
 
 _行为应总是发生在真实时间中，世界时间永不停止_
 
-_b\) Events must exist that happen independently from players’ action_
+_b) Events must exist that happen independently from players’ action_
 
 _事件应该独立存在且其发生独立于玩家的行动_
 
-_c\) Reject all fail states, never wait for players’ input to progress all action_
+_c) Reject all fail states, never wait for players’ input to progress all action_
 
 _抛弃所有的失败/停止状态，绝不等待玩家的输入来推进所有的行为_
 
@@ -208,7 +208,7 @@ MarkBrown所举的例子便是《Outer Wilds 星际拓荒》和《Dead Rising》
 
 而最有名气和帅气的《Super Hot 燥热》，在当时的7天FPS Game Jam游戏开发活动大赛中制作出来后，它的概念简单易懂并且令人兴奋，将子弹时间做这样的演绎，将战斗和粒子的场景的美感与决策结合在一起。
 
-拙作《El Hacedor 诗人，创作者》[游戏0x0064：EI Hacedor](http://mp.weixin.qq.com/s?__biz=MzIzMjM0NDk1NQ==&mid=2247484741&idx=1&sn=d90155e2f0545c9206bc1109e85d2280&chksm=e8971951dfe090477d1b03ed96aa6432da93c2cd11c943b551c53a18c9a99bb5b02ed55f9607&scene=21#wechat_redirect) 某些桥段也使用了类似的做法，并且用线条的自我交叉作为时空回返。而NExT Studios马上要推出的《Crown Trick不思议的皇冠》的即时回合制某种意义上也是一种被游戏玩家输入所推动的古老类型。
+拙作《El Hacedor 诗人，创作者》[游戏0x0064：EI Hacedor](http://mp.weixin.qq.com/s?\_\_biz=MzIzMjM0NDk1NQ==\&mid=2247484741\&idx=1\&sn=d90155e2f0545c9206bc1109e85d2280\&chksm=e8971951dfe090477d1b03ed96aa6432da93c2cd11c943b551c53a18c9a99bb5b02ed55f9607\&scene=21#wechat\_redirect) 某些桥段也使用了类似的做法，并且用线条的自我交叉作为时空回返。而NExT Studios马上要推出的《Crown Trick不思议的皇冠》的即时回合制某种意义上也是一种被游戏玩家输入所推动的古老类型。
 
 ### **时间连续地倒流**
 
@@ -226,11 +226,11 @@ Jonathan Blow充分发挥其谜题设计的深度，通过不同多种的原型�
 
 ### **多重平行宇宙**
 
-——《拒绝上班 \(Does not Commute\)》《Echoplex 回音倒影》《Super Time Force》《Quantum League》
+——《拒绝上班 (Does not Commute)》《Echoplex 回音倒影》《Super Time Force》《Quantum League》
 
 在时间上做重复的活动，多周目，多次复活尝试后创造出一个新的自我，这类游戏的设计太多以至于近乎被玩烂了。还有各种变种，例如录制某一部分的自己，然后通过踩头跳跃，或者是踩开关解谜来进行调整。
 
-手机上的游戏《拒绝上班 \(Does not Commute\)》就是一个俯视角的很好例子，在每一次时间回返之后，你都要避开自己过去的影子来在这个越来越拥挤的世界努力行驶到目标位置。
+手机上的游戏《拒绝上班 (Does not Commute)》就是一个俯视角的很好例子，在每一次时间回返之后，你都要避开自己过去的影子来在这个越来越拥挤的世界努力行驶到目标位置。
 
 ![](../../.gitbook/assets/commute.png)
 
@@ -242,7 +242,7 @@ Jonathan Blow充分发挥其谜题设计的深度，通过不同多种的原型�
 
 ——然后如果玩家这个时候在他死亡之前击杀了之前的击杀自己的怪物，解救了上个时空中自己后，过去的自己就会停在原地，如果玩家去收集，那么就会和现在的自己合二为一，然后变为现在自己的第二滴HP（如果没有能解救，那么另一条时间线就依旧死亡）。
 
-![&#x8D85;&#x7EA7;&#x65F6;&#x95F4;&#x529B;&#x91CF;&#x903B;&#x8F91;](../../.gitbook/assets/timeline.png)
+![超级时间力量逻辑](../../.gitbook/assets/timeline.png)
 
 结果的实际体验就是玩家不能以自己的节奏过关，也不是通过练习，而是通过累计错误去过关。借用IGN的说法：_混乱根深蒂固的存在于《超级时间力量》的血液之中，这与干脆利落地过关是相冲突地。_
 
@@ -256,7 +256,7 @@ Jonathan Blow充分发挥其谜题设计的深度，通过不同多种的原型�
 
 这类作品是很常见的，在各类Paradox Interactive的历史游戏，或者文明中，一回合就是百年。
 
-![Passage](../../.gitbook/assets/passage%20%281%29.png)
+![Passage](<../../.gitbook/assets/passage (1).png>)
 
 但从小的游戏上来看或许更有意思：《Passage》通过象征、符号、音乐、美术，表现出一种独特的“时间感”的混合，是对我影响最大的游戏，而作者Jason Rohrer的后来发售的《One Hour One Life》通过将一生的时间和进程以一种多人社会合作，语言交流的方式浓缩成一小时的游戏进程也同样是充满了力量。
 
@@ -290,5 +290,4 @@ _从运行肌理来说，电影24帧所记录的时光是被雕刻在底片上�
 >
 > _Paul Gauguin_
 
-\_\_
-
+__
