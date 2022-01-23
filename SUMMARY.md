@@ -46,7 +46,6 @@
 
 ## Ficstruction 虚构 <a href="#ficstruction" id="ficstruction"></a>
 
-* [Ficstruction 虚 构手册](ficstruction/xu-gou-shou-ce.md)
 * [Paidia 游 戏](ficstruction/paidia/README.md)
   * [#0 何为游戏？](ficstruction/paidia/0-he-wei-you-xi.md)
   * [#1 “严肃”的游戏](ficstruction/paidia/1-yan-su-de-you-xi.md)
@@ -61,9 +60,6 @@
 * [指北 Gide](project/about/README.md)
   * [01 当代青年工作自救指北](project/about/01.md)
   * [02 当代资本世界生存指北](project/about/02.md)
-* [德勒兹-哲学-游戏](project/deleuze.md)
-* [自指-复杂-涌现-游戏设计](project/emerge/README.md)
-  * [01 读 海德格尔《世界图像时代》](project/emerge/01world.md)
 
 ## 日 | 落 翻译计划 <a href="#translate" id="translate"></a>
 
