@@ -40,11 +40,17 @@ website: [xpaidia.com](http://xpaidia.com)
 
 作为业余游戏研究者进行**「界面式（interface research）」**并置联系的研究方法，跨界进行写作了一系列长文，带来一定的跨界影响：如叙述中国当代艺术作品中的电子游戏的《[中国当代艺术场域中的电子游戏 | 落日间](https://mp.weixin.qq.com/s/fMOkRcm08kW3g4PPFnOvQQ)》（并就此话题在明当代美术馆进行了讲座分享）、谈论游戏声音设计与游戏设计交界的《[再重聚：音频驱动的游戏设计视角 Re-Reunion: Audio-Gameplay Design](https://mp.weixin.qq.com/s/YBZGr9bKJCNaBDR-Krz2uw)》（此文为上海温哥华电影学院举办的 Audiokinetic 中国2021互动音乐沙龙上分享的部分文字版本）、谈论游戏与文学的交叉的笔记《[文学机器如何运行 | 落日间](https://www.douban.com/note/820611003/#/?\_i=2919795VU5gsG6)》，与技术人员谈论游戏与人工智能的交叉（《 [E21 Ghost x Shell 人工智能与游戏 \[0\]](http://mp.weixin.qq.com/s?\_\_biz=MzIzMjM0NDk1NQ==\&mid=2247485772\&idx=1\&sn=e21c6981ae4fcdb4ba9755af78fe5767\&chksm=e8971558dfe09c4e01751b36b6ca6454983fbd5d44f63425ab1f9b3acc208d8d358627de7f37\&scene=21#wechat\_redirect)》），此外还有诸如哲学游戏的设计与开发，游戏中的建筑空间等话题进行了报告但还未整理成文，对于这一系列研究的方法与关切的总结可见本人于中国斯坦福社会创新峰会《游戏知识分子》分会场上的发言演讲《[电子游戏的文化困境 | 落日间](https://mp.weixin.qq.com/s/Xg\_KuBUcXH48rE-bOhayow)》。
 
+亦十分关切于更多人能够参与游戏开发和创造的过程中来，正在推动写作《[做个游戏送给朋友吧|落日间](https://xpaidia.gitbook.io/pweb/tools#/)》的一系列对于游戏开发入门与上手的祛魅与入门工作，积极进行相关诸如[Pixi.](https://zhuanlan.zhihu.com/p/383581835#/)js,[GSAP](https://zhuanlan.zhihu.com/p/383699474#/),[Web Audio](https://zhuanlan.zhihu.com/p/383946261#/),[Construct3](https://zhuanlan.zhihu.com/p/385158593#/)等网页游戏技术笔记的分享。
+
+目前正在写作一本帮助人们理解电子游戏的免费电子书，并且在做一份每周发送的游戏主题的邮件通讯newsletter《[落日一周间](https://xpaidia.zhubai.love)》。
 
 
 
+#### **翻译**
 
+发起\`日 | 落译介计划\`，旨在
 
+****
 
 ### 作品 Works&#x20;
 
@@ -87,7 +93,7 @@ website: [xpaidia.com](http://xpaidia.com)
 
 
 
-### 翻译
+###
 
 
 
