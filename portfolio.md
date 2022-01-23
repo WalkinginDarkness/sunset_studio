@@ -34,22 +34,15 @@ website: [xpaidia.com](http://xpaidia.com)
 
 **写作**
 
-长久在知乎进行游戏与人文相关的写作，是`游戏`，`游戏设计`、`单机游戏` 话题的优秀回答者 [知乎，首页 Link](https://www.zhihu.com/people/xie-mo-zhe)
+长久在[知乎](https://www.zhihu.com/people/xie-mo-zhe#/)进行游戏与人文相关的写作，是`游戏`，`游戏设计`、`单机游戏` 话题的优秀回答者。曾长达数年在独立游戏媒体[indienova](https://indienova.com/u/guatif#/)进行兼职编辑写作。近来进行更多的独立撰稿，围绕游戏，艺术等话题进行写作，如当代艺术的游戏评论x BIE 别的 [通过体验游戏中的失败，抓住人生的线索](https://mp.weixin.qq.com/s/qgLKD40fMCzyDlLJiOARuQ) 与 x OUTPUT [O:BSERVE | 殊途同归的新媒体艺术与电子游戏](https://mp.weixin.qq.com/s/SZ9a9l4-fVYiKGAVJ31D\_w) 。
 
-x 独立游戏媒体indienova 兼职编辑 The Writer for the indie game website in China indienova.com [Link](https://indienova.com/u/guatif)
+为腾讯的思想文化刊物「腾云」进行撰稿写作长文：[ “严肃”的游戏](https://mp.weixin.qq.com/s/uiYhfS\_vDIN9oTabnxzkFA) ，[游戏的态度：如果不“严肃”，你就无法感受它的魅力](https://mp.weixin.qq.com/s/p34QyzNl91PUCH4vcKc5BA) （Pony转发）[游戏与电影：相似的外表，不同的灵魂](https://mp.weixin.qq.com/s/Ckqn-KvI4muqtG9xLzDaGg)[斩获奥斯卡的《1917》让电影更像游戏了吗？](https://mp.weixin.qq.com/s/vl1sdYIiE4JzTrWCdrsd-Q)[为什么说游戏设计是隐形的建筑学？](https://mp.weixin.qq.com/s/\_dd8rXhGrKW\_vTRrmKMAUQ)[游戏设计&建筑设计：未来，谁来规划我们的虚拟空间？](https://mp.weixin.qq.com/s/FogiFZWrnV7vwH7hs2i8VQ)[用虚拟“取代”现实，这场“梦”该醒了吗？](https://mp.weixin.qq.com/s/ngRKfOkOp44-wQk1qvM0Bg)
 
-x 腾云智库 The Writer for Tencent Social Research Center [Link](https://mp.weixin.qq.com/s/p34QyzNl91PUCH4vcKc5BA)\
-[“严肃”的游戏](https://mp.weixin.qq.com/s/uiYhfS\_vDIN9oTabnxzkFA)\
-[游戏的态度：如果不“严肃”，你就无法感受它的魅力](https://mp.weixin.qq.com/s/p34QyzNl91PUCH4vcKc5BA)\
-[游戏与电影：相似的外表，不同的灵魂](https://mp.weixin.qq.com/s/Ckqn-KvI4muqtG9xLzDaGg)\
-[斩获奥斯卡的《1917》让电影更像游戏了吗？](https://mp.weixin.qq.com/s/vl1sdYIiE4JzTrWCdrsd-Q)\
-[为什么说游戏设计是隐形的建筑学？](https://mp.weixin.qq.com/s/\_dd8rXhGrKW\_vTRrmKMAUQ)\
-[游戏设计&建筑设计：未来，谁来规划我们的虚拟空间？](https://mp.weixin.qq.com/s/FogiFZWrnV7vwH7hs2i8VQ)\
-[用虚拟“取代”现实，这场“梦”该醒了吗？](https://mp.weixin.qq.com/s/ngRKfOkOp44-wQk1qvM0Bg)
+作为业余游戏研究者进行**「界面式（interface research）」**并置联系的研究方法，跨界进行写作了一系列长文，带来一定的跨界影响：如叙述中国当代艺术作品中的电子游戏的《[中国当代艺术场域中的电子游戏 | 落日间](https://mp.weixin.qq.com/s/fMOkRcm08kW3g4PPFnOvQQ)》（并就此话题在明当代美术馆进行了讲座分享）、谈论游戏声音设计与游戏设计交界的《[再重聚：音频驱动的游戏设计视角 Re-Reunion: Audio-Gameplay Design](https://mp.weixin.qq.com/s/YBZGr9bKJCNaBDR-Krz2uw)》（此文为上海温哥华电影学院举办的 Audiokinetic 中国2021互动音乐沙龙上分享的部分文字版本）、谈论游戏与文学的交叉的笔记《[文学机器如何运行 | 落日间](https://www.douban.com/note/820611003/#/?\_i=2919795VU5gsG6)》，与技术人员谈论游戏与人工智能的交叉（《 [E21 Ghost x Shell 人工智能与游戏 \[0\]](http://mp.weixin.qq.com/s?\_\_biz=MzIzMjM0NDk1NQ==\&mid=2247485772\&idx=1\&sn=e21c6981ae4fcdb4ba9755af78fe5767\&chksm=e8971558dfe09c4e01751b36b6ca6454983fbd5d44f63425ab1f9b3acc208d8d358627de7f37\&scene=21#wechat\_redirect)》），此外还有诸如哲学游戏的设计与开发，游戏中的建筑空间等话题进行了报告但还未整理成文，对于这一系列研究的方法与关切的总结可见本人于中国斯坦福社会创新峰会《游戏知识分子》分会场上的发言演讲《[电子游戏的文化困境 | 落日间](https://mp.weixin.qq.com/s/Xg\_KuBUcXH48rE-bOhayow)》。
 
-x BIE 别的 [通过体验游戏中的失败，抓住人生的线索](https://mp.weixin.qq.com/s/qgLKD40fMCzyDlLJiOARuQ)
 
-x OUTPUT [O:BSERVE | 殊途同归的新媒体艺术与电子游戏](https://mp.weixin.qq.com/s/SZ9a9l4-fVYiKGAVJ31D\_w)
+
+
 
 
 
