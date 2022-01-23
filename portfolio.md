@@ -24,15 +24,13 @@ website: [xpaidia.com](http://xpaidia.com)
 
 ### 写作/播客 Words / Podcast
 
-**播客**
+#### **播客**
 
 《[落日间](https://xyzfm.link/jl6wg)》在播客平台小宇宙上有过万订阅，加上苹果荔枝等泛用性RSS分发不计，应该能算作全网唯一一档从游戏从业者出发而进行文化跨界交流的中文播客，尝试与诸如从业者，艺术家，策展人，哲学教授，建筑师，诗人等对话，构建出一个围绕思考「何为游戏」与「游戏何为」的跨界沟通与连接的播客场域，具有较为广泛的认知。
 
 例如与当代艺术策展人Bruce录制的[《E9 如果游戏是答案，那么问题是什么？》](https://docs.xpaidia.com/update/podcast/e9)/ 与北京师范大学的刘梦霏老师的[《E13 游戏能否改变世界：现实主义游戏与一次社会实验》](https://docs.xpaidia.com/update/podcast/e13)及后续在红星美凯龙艺术中心的邀请下再次录制的《[E27 异乡的两生花：再谈游戏与当代艺术中的现实主义，批评与作品](https://mp.weixin.qq.com/s/tz5SfNBw7vhRfMQA1Jt\_\_A)》/ 与群岛书店旗下播客《城市罐头》聊游戏中的建筑与空间的[《E16 虚 构：虚拟建筑学与游戏建构学｜城市罐头 x 落日间》](https://docs.xpaidia.com/update/podcast/e16)/ 与华东师范大学哲学系教授姜宇辉老师聊游戏与哲学的[《E23 在哲学与游戏之间 | 姜宇辉 x 落日间》](https://docs.xpaidia.com/update/podcast/e23)/ 与北京大学游戏研究博士谈的《[E30 电子游戏作为快感治理术](https://mp.weixin.qq.com/s/PSZFcUVSt09DmliNtTg1tQ)》/ 与复旦大学中文系博士，青年诗人王子瓜聊游戏与诗歌的创作《[E31 电子游戏时代的抒情诗人](https://www.xiaoyuzhoufm.com/episodes/61e65bb54675a08411f512cc)》。
 
-
-
-**写作**
+#### **写作**
 
 长久在[知乎](https://www.zhihu.com/people/xie-mo-zhe#/)进行游戏与人文相关的写作，是`游戏`，`游戏设计`、`单机游戏` 话题的优秀回答者。曾长达数年在独立游戏媒体[indienova](https://indienova.com/u/guatif#/)进行兼职编辑写作。近来进行更多的独立撰稿，围绕游戏，艺术等话题进行写作，如当代艺术的游戏评论x BIE 别的 [通过体验游戏中的失败，抓住人生的线索](https://mp.weixin.qq.com/s/qgLKD40fMCzyDlLJiOARuQ) 与 x OUTPUT [O:BSERVE | 殊途同归的新媒体艺术与电子游戏](https://mp.weixin.qq.com/s/SZ9a9l4-fVYiKGAVJ31D\_w) 。
 
@@ -43,8 +41,6 @@ website: [xpaidia.com](http://xpaidia.com)
 亦十分关切于更多人能够参与游戏开发和创造的过程中来，正在推动写作《[做个游戏送给朋友吧|落日间](https://xpaidia.gitbook.io/pweb/tools#/)》的一系列对于游戏开发入门与上手的祛魅与入门工作，积极进行相关诸如[Pixi.](https://zhuanlan.zhihu.com/p/383581835#/)js,[GSAP](https://zhuanlan.zhihu.com/p/383699474#/),[Web Audio](https://zhuanlan.zhihu.com/p/383946261#/),[Construct3](https://zhuanlan.zhihu.com/p/385158593#/)等网页游戏技术笔记的分享。
 
 目前正在写作一本帮助人们理解电子游戏的免费电子书，并且在做一份每周发送的游戏主题的邮件通讯newsletter《[落日一周间](https://xpaidia.zhubai.love)》。
-
-
 
 #### **翻译**
 
@@ -62,9 +58,7 @@ website: [xpaidia.com](http://xpaidia.com)
 
 目前正在NExT Studios 主理推进名为「游戏+ Gameplus」的研究创作（Research / Creation）计划。希望能使用轻量地方式制作和传播电子游戏，在电子游戏与各个学科事物间创造与连结，探索游戏更多的形态与媒介潜能，并通过多种媒体形式分享创作过程中的心得与想法，为行业内外带来启发与灵感。第一期与诗人、作家合作的诗歌游戏《[写首诗吧！Make a Poem](https://www.nextstudios.com/gameplus\_detail/index.html?id=1#/)》有待公布。
 
-
-
-**Features Works**
+#### **Features Works**
 
 2022 《[时间的形状 The Shape of Time](https://www.nextstudios.com/gameplus\_detail/index.html?id=2#/)》，该作获得 [IGF 2022 Nuovo Award Honorable Mentions](https://igf.com/article/unpacking-and-inscryption-lead-igf-2022-nominations) **** ，并被邀请在2022年3月的GDC Experimental Gameplay Workshop上进行展示与分享。
 
@@ -83,11 +77,11 @@ website: [xpaidia.com](http://xpaidia.com)
 ### 分享 Talk / Activities
 
 * 2019.10 昊美术馆 “严肃游戏”展 HOW ART MUSEUM Serious Game 上海 Shanghai 讲座《说不可说：电子游戏的艺术语言》 The Art Language of Video Gamem [HOW讲座推送](https://mp.weixin.qq.com/s/nEiuz4m-80edzaERaU\_IxQ) / [活动与内容回顾](https://mp.weixin.qq.com/s/8kjMPfVYOQwDzoGPWstnfw)
-* 2020.9.25 灵感买家俱乐部 [「米粉 vs 面条」](https://mp.weixin.qq.com/s/6DxFU8iE\_E\_MnF5CLpf9jg)Demo Night 《寻找冯梦波：一个线上展览，也是一个填字游戏》
+* 2020.9.25 灵感买家俱乐部 [「米粉 vs 面条」](https://mp.weixin.qq.com/s/6DxFU8iE\_E\_MnF5CLpf9jg) 《寻找冯梦波：一个线上展览，也是一个填字游戏》
 * 2020.10.11 原想 2020 年会 《后戏 AfterGaming》/《电子游戏作为隐形的建筑学》 [活动回顾](https://mp.weixin.qq.com/s/\_rE\_BjMfxQYWurXiw-6LZg)
-* 2020.11.20 华东师范大学 “游戏致/至死” 游戏哲学工作坊 主旨发言 《游戏的高度“严肃性”》 [Link](https://www.thepaper.cn/newsDetail\_forward\_10201281)
+* 2020.11.20 华东师范大学 [“游戏致/至死” 游戏哲学工作坊 ](https://www.thepaper.cn/newsDetail\_forward\_10201281#/)主旨发言 《游戏的高度“严肃性”》
 * 2020.12 山中天艺术中心 《从自己制造的迷宫中逃出去：乌力波60周年”》 线上活动《电子游戏中的故事机器 x 厌氧菌》以及《寻找 Oulipo》展览游戏制作 [活动回顾](https://mp.weixin.qq.com/s/OAXyNPLEvAfYs5ZGCxAx-Q) / [活动和直播录屏](https://www.bilibili.com/video/BV13y4y1D7qY)
-* 2021.1 McaM 明当代美术馆 讲座《电子游戏的十二幅面孔》 [McaM 讲座预告](https://mp.weixin.qq.com/s/wCX\_G4s8pO\_oMTEfpDdMbg) / [回顾｜叶梓涛：游戏的艺术结构](https://mp.weixin.qq.com/s/jiS3BHYlO1PAG95parxRog) / Hpast 线上版分享 [推送](https://mp.weixin.qq.com/s/457WHeEphho3FZ-TU5g0Iw) / 线上版本录屏：[B站链接](https://www.bilibili.com/video/BV1T5411n7J1)
+* 2021.1 McaM 明当代美术馆 讲座《电子游戏的十二幅面孔》 [McaM 讲座预告](https://mp.weixin.qq.com/s/wCX\_G4s8pO\_oMTEfpDdMbg) / [回顾｜叶梓涛：游戏的艺术结构](https://mp.weixin.qq.com/s/jiS3BHYlO1PAG95parxRog) / Hpast 线上版 [推送](https://mp.weixin.qq.com/s/457WHeEphho3FZ-TU5g0Iw) / 录屏：[B站链接](https://www.bilibili.com/video/BV1T5411n7J1)
 * 2021.4.16 神兽之间书店 《[神兽夜谈](https://mp.weixin.qq.com/s/2XB5gkBfSZZf57FUed7BfQ#/)》分享《逃离游戏文化贫民窟》，[分享内容](https://www.zhihu.com/question/19921302/answer/1850501909#/)
 * 2021.4.21 天美工作室群 x 联合国环境规划署 知乎圆桌 [玩游戏，救地球！](https://www.zhihu.com/roundtable/playingfortheplanet) 邀请嘉宾
 * 2021.4.23 腾讯游戏学院 [4.23 世界读书日「共建游戏人图书馆」](https://mp.weixin.qq.com/s/loA1heUV5SRjaNyk9vqFww) 邀请媒体人
@@ -95,7 +89,7 @@ website: [xpaidia.com](http://xpaidia.com)
 * 2021.5.7 腾讯研究院圆桌 《[Metaverse：互联网的未来是虚拟时空？](https://mp.weixin.qq.com/s/idtlL3Fb\_zPOu3aJP7Xbtg)》嘉宾，分享内容录屏《[未来我们将如何创造，并创造什么？](https://www.bilibili.com/video/BV1nU4y1t7pB?p=2)》
 * 2021.6.26 WMS2021 Talks 《再重聚：游戏-音频的游戏设计视角 Re-Reunion：Audio-Gameplay Design》with Xichen [Audiokinetic Wwise Interactive Music Symposium 2021](https://info.audiokinetic.com/zh-cn/wwise-interactive-music-symposium-2021-china) / [推送](https://mp.weixin.qq.com/s/coZwzfD\_-fCgenBRKoD8HQ)&#x20;
 * 2021.7.1 谷歌上海 Google Talk 《播客破万「卷」Podcast: a verb, a lifestyle》with afta from 《小声喧哗》
-* 2021.7.27 腾云主办：传统文化 x 数字游戏跨界对话 「游于艺、玩于文」嘉宾
+* 2021.7.27 腾云：传统文化 x 数字游戏跨界对话 「游于艺、玩于文」嘉宾
 * 2021.10.31 现代汽车文化中心 Hyundai Blue Prize 2021《坐标系·天空盒》 公教活动《[神经锻炼场—交互的艺术](https://mp.weixin.qq.com/s/LDWwEtfbGvkFM0jG5YFHwg)》分享嘉宾
 * 2021.11.10 腾讯游戏学堂业内文化纪录片《[游衷之言](https://weibo.com/tv/show/1034:4705300503265330?from=old\_pc\_videoshow)》受邀采访
 * 2021.11.14 同济大学、华东师范大学 拒绝在/再玩：游戏的精神生态学 跨学科研讨工作坊，[活动总结](https://m.thepaper.cn/newsDetail\_forward\_15480688) 报告分享：《做个哲学游戏吧！在语言之前的，和那比语言更多的》
@@ -106,11 +100,9 @@ website: [xpaidia.com](http://xpaidia.com)
 * 2022.1.19 三明治文化中心，面向11-15岁的[寒假线上工作坊mentor](https://mp.weixin.qq.com/s/i-Olk0xBKY8oRbUoHgT3Zg)项目《电子游戏的两个「如何」》主讲人，主要内容电子游戏的制作与对游戏设计的理解作为通识素养。
 * 待进行：2022.3.25 收到 Game Developers Conference (GDC) Exprimental Gameplay Workshop 实验游戏工作坊 邀请分享本次IGF荣誉提名哲学游戏《时间的形状》的开发过程。
 
-###
-
 ### **工作 / 教育经历**
 
-**工作经历**
+#### **工作经历**
 
 2020.3 - Present 媒体实验室 落日间 创始人，播客《落日间》主播
 
@@ -120,9 +112,7 @@ website: [xpaidia.com](http://xpaidia.com)
 
 \*华中师范大学美术学院「游戏设计课程」兼职硕士生导师（推进中）
 
-****
-
-**教育背景**
+#### **教育背景**
 
 南京大学历史学（2014-2018），哲学系答辩通过毕业论文《潜能的游戏》，
 
@@ -133,8 +123,6 @@ website: [xpaidia.com](http://xpaidia.com)
 巴黎第七大学交换学期（Université de Paris 7 Diderot ） Art et Humanites（2017）
 
 北京大学第十届（2018年）通识教育核心课程讲习班成员
-
-
 
 ### 报道 Press
 
