@@ -14,7 +14,7 @@ YE Zitao is a game designer and writer from NExT Studios of Tencent Games, He is
 
 [yzitao@foxmail.com](mailto:yzitao@foxmail.com)
 
-[知乎](https://www.zhihu.com/people/xie-mo-zhe) / [Twitter](https://twitter.com/Nir\_yezi) / [Linkedin](https://www.linkedin.com/in/%E6%A2%93%E6%B6%9B-%E5%8F%B6-46b701111/) / 即刻：叶梓涛
+[知乎](https://www.zhihu.com/people/xie-mo-zhe) / [Twitter](https://twitter.com/Nir\_yezi) / [Linkedin](https://www.linkedin.com/in/%E6%A2%93%E6%B6%9B-%E5%8F%B6-46b701111/) / [Bilibil](https://space.bilibili.com/3169565)/即刻：叶梓涛
 
 website: [xpaidia.com](http://xpaidia.com)
 
