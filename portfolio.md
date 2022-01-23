@@ -14,7 +14,7 @@ YE Zitao is a game designer and writer from NExT Studios of Tencent Games, He is
 
 [yzitao@foxmail.com](mailto:yzitao@foxmail.com)
 
-[知乎](https://www.zhihu.com/people/xie-mo-zhe) / [Twitter](https://twitter.com/Nir\_yezi) / [Linkedin](https://www.linkedin.com/in/%E6%A2%93%E6%B6%9B-%E5%8F%B6-46b701111/) / [Bilibil](https://space.bilibili.com/3169565)/即刻：叶梓涛
+[知乎](https://www.zhihu.com/people/xie-mo-zhe) / [Twitter](https://twitter.com/Nir\_yezi) / [Linkedin](https://www.linkedin.com/in/%E6%A2%93%E6%B6%9B-%E5%8F%B6-46b701111/) / [Bilibil](https://space.bilibili.com/3169565) / 即刻：叶梓涛
 
 website: [xpaidia.com](http://xpaidia.com)
 
@@ -22,7 +22,7 @@ website: [xpaidia.com](http://xpaidia.com)
 
 
 
-### 写作/播客 Words
+### 写作/播客 Words / Podcast
 
 **播客**
 
@@ -48,24 +48,39 @@ website: [xpaidia.com](http://xpaidia.com)
 
 #### **翻译**
 
-发起\`日 | 落译介计划\`，旨在
+发起\`日 | 落译介计划\`，是一个旨在帮助我们更好的思考游戏/电子游戏的外文文本的翻译与推荐计划。
 
-****
+目前已经翻译并且发布若干篇文章，文章来源实验音乐人，游戏设计师，游戏研究者等：如 [Brian Eno 生成性音乐 Generative Music](https://mp.weixin.qq.com/s/EDsuOr0jKBO5BjXb00GO9g) / [Chris Bell 面向友情的设计 Designing For Friendship](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F\_\_biz%3DMzIzMjM0NDk1NQ%3D%3D%26mid%3D2247485912%26idx%3D1%26sn%3Da0e90bbe7a913076b2868e637f1a18c7%26chksm%3De89715ccdfe09cdaea195a4710965c1ab734e34a869354f581f892f7698f2ccf5a364189f86e%26scene%3D21%23wechat\_redirect) / [Espen Aaserth 电脑游戏研究，第一年Computer Game Studies, Year One ](https://mp.weixin.qq.com/s/Bu0V-gxzv0FonfPFuk0Ndw)/ [Frank Lantz 游戏不是媒体 Games Are Not Media (2009)](https://mp.weixin.qq.com/s/KvMcXR7D7GLWDccp6FOKTw) / [Liz England 「门的难题」 “The Door Problem” (2014)](https://mp.weixin.qq.com/s/LHsVkO6oBLOKM65gKTxP0w) / [Steven Harmon「厕所难题」"The Toilet Problem” (2017)](https://mp.weixin.qq.com/s/z2HdOMUtRxLOzsLlZbkd9Q) 等，持续更新与推进中。
+
+
 
 ### 作品 Works&#x20;
 
-* 目前正在NExT Studios推荐游戏探索的研究/创作的「游戏+」计划，正在探索诸如游戏与文学，「诗」，与哲学的碰撞等，见《时间的形状 The Shape of Time》《呼吸 Exhalation》等网页端创作
-* 2022 《时间的形状 The Shape of Time》IGF 2022 Nuovo Award Honorable Mentions
-* 2021 《剑入禅境 Sword Zen》
-* 2019 [《S E E K》](https://yezi.itch.io/seek) CiGA China Jam Shanghai 2019 winner [活动回顾](https://mp.weixin.qq.com/s/8p2MUg6fVChKTNv1j22mkQ)
-* 2018[《El Hacedor》](https://yezi.itch.io/hacedor)2020 Neo Director Group exhibition, Aotu Space, Beijing [Link](https://mp.weixin.qq.com/s/VrqQQSO24L8ji25oFbelRg)
-* 2017 [《In the Box》](https://yezi.itch.io/in-the-box) NEXT IDEA 2017 Student Game Award: Bronze Prize
+有过2A级游戏的关卡设计经验，有过负责传统创新玩法类独立游戏的孵化，关卡设计作品《Transillusion 换影逃脱》（未发布），并收到海外独立游戏发行商Team17等团队的合作邀请。
 
-其他实验性作品与原型见 [yezi.itch.io](https://yezi.itch.io)
+但更加擅长和实践的是短游戏与实验性游戏作品，因为这更能进行快速的创作尝试以及界面研究。
+
+目前正在NExT Studios 主理推进名为「游戏+ Gameplus」的研究创作（Research / Creation）计划。希望能使用轻量地方式制作和传播电子游戏，在电子游戏与各个学科事物间创造与连结，探索游戏更多的形态与媒介潜能，并通过多种媒体形式分享创作过程中的心得与想法，为行业内外带来启发与灵感。第一期与诗人、作家合作的诗歌游戏《[写首诗吧！Make a Poem](https://www.nextstudios.com/gameplus\_detail/index.html?id=1#/)》有待公布。
 
 
 
-### Talk / Activities
+**Features Works**
+
+2022 《[时间的形状 The Shape of Time](https://www.nextstudios.com/gameplus\_detail/index.html?id=2#/)》，该作获得 [IGF 2022 Nuovo Award Honorable Mentions](https://igf.com/article/unpacking-and-inscryption-lead-igf-2022-nominations) **** ，并被邀请在2022年3月的GDC Experimental Gameplay Workshop上进行展示与分享。
+
+2021 《[剑入禅境 Sword Zen](https://yezi.itch.io/sz#/)》，[宣传片](https://www.bilibili.com/video/BV1Lt4y1B7xz)与视频
+
+2019 《[S E E K](https://yezi.itch.io/seek#/)》CiGA China Jam Shanghai 2019 椰岛站最佳游戏 winner [活动回顾](https://mp.weixin.qq.com/s/8p2MUg6fVChKTNv1j22mkQ)
+
+2018 《[El Hacedor 诗人，创造者](https://yezi.itch.io/hacedor#/)》2020 Neo Director Group exhibition, Aotu Space, Beijing [Link](https://mp.weixin.qq.com/s/VrqQQSO24L8ji25oFbelRg)
+
+2017 《[In the Box 窄门](https://yezi.itch.io/in-the-box#/)》NEXT IDEA 2017 Student Game Award: Bronze Prize
+
+其他作品与原型见 [yezi.itch.io](https://yezi.itch.io) ，部分孵化的作品原型暂未放出
+
+
+
+### 分享 Talk / Activities
 
 * 2019.10 昊美术馆 “严肃游戏”展 HOW ART MUSEUM Serious Game 上海 Shanghai 讲座《说不可说：电子游戏的艺术语言》 The Art Language of Video Gamem [HOW讲座推送](https://mp.weixin.qq.com/s/nEiuz4m-80edzaERaU\_IxQ) / [活动与内容回顾](https://mp.weixin.qq.com/s/8kjMPfVYOQwDzoGPWstnfw)
 * 2020.9.25 灵感买家俱乐部 [「米粉 vs 面条」](https://mp.weixin.qq.com/s/6DxFU8iE\_E\_MnF5CLpf9jg)Demo Night 《寻找冯梦波：一个线上展览，也是一个填字游戏》
@@ -91,15 +106,11 @@ website: [xpaidia.com](http://xpaidia.com)
 * 2022.1.19 三明治文化中心，面向11-15岁的[寒假线上工作坊mentor](https://mp.weixin.qq.com/s/i-Olk0xBKY8oRbUoHgT3Zg)项目《电子游戏的两个「如何」》主讲人，主要内容电子游戏的制作与对游戏设计的理解作为通识素养。
 * 待进行：2022.3.25 收到 Game Developers Conference (GDC) Exprimental Gameplay Workshop 实验游戏工作坊 邀请分享本次IGF荣誉提名哲学游戏《时间的形状》的开发过程。
 
-
-
 ###
 
+### **工作 / 教育经历**
 
-
-
-
-### **工作**
+**工作经历**
 
 2020.3 - Present 媒体实验室 落日间 创始人，播客《落日间》主播
 
@@ -109,7 +120,9 @@ website: [xpaidia.com](http://xpaidia.com)
 
 \*华中师范大学美术学院「游戏设计课程」兼职硕士生导师（推进中）
 
-### **教育**
+****
+
+**教育背景**
 
 南京大学历史学（2014-2018），哲学系答辩通过毕业论文《潜能的游戏》，
 
@@ -121,7 +134,9 @@ website: [xpaidia.com](http://xpaidia.com)
 
 北京大学第十届（2018年）通识教育核心课程讲习班成员
 
-### 报道
+
+
+### 报道 Press
 
 2017 [《“如果没有它，我可能连腾讯公司的大门都进不去”｜游戏葡萄》](https://mp.weixin.qq.com/s/592swUAVoGHqV3MHmUDvgw)
 
@@ -129,11 +144,7 @@ website: [xpaidia.com](http://xpaidia.com)
 
 2021 x 泼先生 Pulsasir [《廿一谈词》别忘了生活](https://mp.weixin.qq.com/s/Y-kFIb5iH2wUP62BS2coBA)
 
-2021中国社会科学院大学新闻传播学院《传媒学刊：嘿，你玩游戏么》2021年第1期《第九艺术的种种——专访腾讯游戏设计师叶梓涛》
+2021 中国社会科学院大学新闻传播学院《传媒学刊：嘿，你玩游戏么》2021年第1期《第九艺术的种种——专访腾讯游戏设计师叶梓涛》
 
-##
-
-
-
-###
+2021 青年志 《[为什么游戏不能是严肃且痛苦的呢？| 问题青年008](https://mp.weixin.qq.com/s/ai0hMn2pa6-jsG3tWeVUbQ)》
 
