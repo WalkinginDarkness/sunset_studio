@@ -24,13 +24,17 @@ website: [xpaidia.com](http://xpaidia.com)
 
 ### 写作/播客 Words
 
-播客《[落日间](https://xyzfm.link/jl6wg)》在播客平台小宇宙上有过万订阅，应该能算作唯一特别的从游戏从业者出发而进行文化跨界交流的中文播客，与诸如从业者，艺术家，策展人，哲学教授，建筑师，诗人等对话，构建出一个围绕思考「何为游戏」与「游戏何为」的跨界沟通与连接的播客场域，具有较为广泛的认知。
+**播客**
+
+《[落日间](https://xyzfm.link/jl6wg)》在播客平台小宇宙上有过万订阅，加上苹果荔枝等泛用性RSS分发不计，应该能算作全网唯一一档从游戏从业者出发而进行文化跨界交流的中文播客，尝试与诸如从业者，艺术家，策展人，哲学教授，建筑师，诗人等对话，构建出一个围绕思考「何为游戏」与「游戏何为」的跨界沟通与连接的播客场域，具有较为广泛的认知。
+
+例如与当代艺术策展人Bruce录制的[《E9 如果游戏是答案，那么问题是什么？》](https://docs.xpaidia.com/update/podcast/e9)/ 与北京师范大学的刘梦霏老师的[《E13 游戏能否改变世界：现实主义游戏与一次社会实验》](https://docs.xpaidia.com/update/podcast/e13)及后续在红星美凯龙艺术中心的邀请下再次录制的《[E27 异乡的两生花：再谈游戏与当代艺术中的现实主义，批评与作品](https://mp.weixin.qq.com/s/tz5SfNBw7vhRfMQA1Jt\_\_A)》/ 与群岛书店旗下播客《城市罐头》聊游戏中的建筑与空间的[《E16 虚 构：虚拟建筑学与游戏建构学｜城市罐头 x 落日间》](https://docs.xpaidia.com/update/podcast/e16)/ 与华东师范大学哲学系教授姜宇辉老师聊游戏与哲学的[《E23 在哲学与游戏之间 | 姜宇辉 x 落日间》](https://docs.xpaidia.com/update/podcast/e23)/ 与北京大学游戏研究博士谈的《[E30 电子游戏作为快感治理术](https://mp.weixin.qq.com/s/PSZFcUVSt09DmliNtTg1tQ)》/ 与复旦大学中文系博士，青年诗人王子瓜聊游戏与诗歌的创作《[E31 电子游戏时代的抒情诗人](https://www.xiaoyuzhoufm.com/episodes/61e65bb54675a08411f512cc)》。
 
 
 
+**写作**
 
-
-x 知乎 游戏，游戏设计、单机游戏 话题优秀回答者 [知乎首页 Link](https://www.zhihu.com/people/xie-mo-zhe)
+长久在知乎进行游戏与人文相关的写作，是`游戏`，`游戏设计`、`单机游戏` 话题的优秀回答者 [知乎，首页 Link](https://www.zhihu.com/people/xie-mo-zhe)
 
 x 独立游戏媒体indienova 兼职编辑 The Writer for the indie game website in China indienova.com [Link](https://indienova.com/u/guatif)
 
