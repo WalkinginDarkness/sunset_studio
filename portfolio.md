@@ -8,7 +8,7 @@ description: To B
 
 叶梓涛  YE Zitao&#x20;
 
-游戏设计师，写作者，就职于腾讯NExT Studios进行创意游戏孵化工作，独立媒体实验室「落日间」主理人，播客《落日间》主播，知乎游戏/游戏设计/单机游戏话题优秀回答者，独立作品《剑入禅境 Sword Zen》《时间的形状 The Shape of Time》（IGF 2022 Nuovo Award Honorable Mentions）等。正积极推动电子游戏与人文、艺术、科技的跨界、祛魅与创作活动。毕业于南京大学，曾前往巴黎第七大学（l'Université Paris-Diderot）交换游学，兼有历史学、哲学、艺术与文化创意、人文社科高级研究院（IAS: Institute of Advanced Studies in Humanities and Social Science）的跨学科背景。
+游戏设计师，写作者，翻译者，就职于腾讯NExT Studios进行创意游戏孵化工作，独立媒体实验室「落日间」主理人，播客《落日间》主播，知乎游戏/游戏设计/单机游戏话题优秀回答者，有独立作品《剑入禅境 Sword Zen》《时间的形状 The Shape of Time》（IGF 2022 Nuovo Award Honorable Mentions）等。正积极推动电子游戏与人文、艺术、科技的跨界、祛魅与创作活动。毕业于南京大学，曾前往巴黎第七大学（l'Université Paris-Diderot）交换游学，兼有历史学、哲学、艺术与文化创意、人文社科高级研究院（IAS: Institute of Advanced Studies in Humanities and Social Science）的跨学科背景。
 
 YE Zitao is a game designer and writer from NExT Studios of Tencent Games, He is also the host of the independent media lab "Luorijian", and its podcast , and an excellent answerer in the direction of games and game design in Zhihu. He is actively promoting the cross-border connection, clarification and creative activities between video games and humanities, art and technology ; recent topics of interest include philosophy, artificial intelligence, architecture, interactive music, etc. He graduated from Nanjing University and went on an exchange trip to l'Université Paris-Diderot, and has an interdisciplinary background in history, philosophy, art and cultural creativity, and IAS (Institute of Advanced Studies in Humanities and Social Science).&#x20;
 
@@ -20,50 +20,11 @@ website: [xpaidia.com](http://xpaidia.com)
 
 
 
-### **工作经历**
-
-2020.3 - Present 媒体实验室 落日间 创始人，播客《落日间》主播
-
-2017.7- Present 腾讯NExT Studios 游戏设计师
-
-2016.9 - 2018.6 独立游戏媒体indienova.com撰稿人
 
 
+### 写作/播客 Words
 
-华中师范大学美术学院「游戏设计课程」兼职硕士生导师（推进中）
-
-
-
-### **教育经历**
-
-南京大学历史学（2014-2018），哲学系答辩通过毕业论文《潜能的游戏》，
-
-南京大学人文与社会科学高级研究院（IAS Institute for Advanced Studies in Humanities and Social Sciences） 第一期（2015级）驻院本科生，导师：诺贝尔文学奖得主 Jean Paul Leclézio
-
-南京大学艺术研究院（Art Institution of Nanjing University） 第一期艺术与文化创意研修项目成员
-
-巴黎第七大学交换学期（Université de Paris 7 Diderot ） Art et Humanites（2017）
-
-北京大学第十届（2018年）通识教育核心课程讲习班成员
-
-
-
-### Game Project
-
-* 目前正在NExT Studios推荐游戏探索的研究/创作的「游戏+」计划，正在探索诸如游戏与文学，「诗」，与哲学的碰撞等，见《时间的形状 The Shape of Time》《呼吸 Exhalation》等网页端创作
-* 2022 《时间的形状 The Shape of Time》IGF 2022 Nuovo Award Honorable Mentions
-* 2021 《剑入禅境 Sword Zen》
-* 2019 [《S E E K》](https://yezi.itch.io/seek) CiGA China Jam Shanghai 2019 winner [活动回顾](https://mp.weixin.qq.com/s/8p2MUg6fVChKTNv1j22mkQ)
-* 2018[《El Hacedor》](https://yezi.itch.io/hacedor)2020 Neo Director Group exhibition, Aotu Space, Beijing [Link](https://mp.weixin.qq.com/s/VrqQQSO24L8ji25oFbelRg)
-* 2017 [《In the Box》](https://yezi.itch.io/in-the-box) NEXT IDEA 2017 Student Game Award: Bronze Prize
-
-其他实验性作品与原型见 [yezi.itch.io](https://yezi.itch.io)
-
-
-
-### WORDS&#x20;
-
-目前大部分的写作、翻译可见于落日间的媒体与公众号等，其中《[落日间](https://xyzfm.link/jl6wg)》播客频道已经有近三十期的内容，在小宇宙泛用性播客平台客户端上有近万的订阅，与诸如业内，艺术家，策展人，哲学老师，建筑师，独立开发者等人对话，构建出一个围绕思考「何为游戏」与「游戏何为」的较为特殊的跨界沟通的播客场域。
+播客《[落日间](https://xyzfm.link/jl6wg)》在播客平台小宇宙上有过万订阅，应该能算作唯一特别的从游戏从业者出发而进行文化跨界交流的中文播客，与诸如从业者，艺术家，策展人，哲学教授，建筑师，诗人等对话，构建出一个围绕思考「何为游戏」与「游戏何为」的跨界沟通与连接的播客场域，具有较为广泛的认知。
 
 
 
@@ -85,6 +46,19 @@ x 腾云智库 The Writer for Tencent Social Research Center [Link](https://mp.w
 x BIE 别的 [通过体验游戏中的失败，抓住人生的线索](https://mp.weixin.qq.com/s/qgLKD40fMCzyDlLJiOARuQ)
 
 x OUTPUT [O:BSERVE | 殊途同归的新媒体艺术与电子游戏](https://mp.weixin.qq.com/s/SZ9a9l4-fVYiKGAVJ31D\_w)
+
+
+
+### 作品 Works&#x20;
+
+* 目前正在NExT Studios推荐游戏探索的研究/创作的「游戏+」计划，正在探索诸如游戏与文学，「诗」，与哲学的碰撞等，见《时间的形状 The Shape of Time》《呼吸 Exhalation》等网页端创作
+* 2022 《时间的形状 The Shape of Time》IGF 2022 Nuovo Award Honorable Mentions
+* 2021 《剑入禅境 Sword Zen》
+* 2019 [《S E E K》](https://yezi.itch.io/seek) CiGA China Jam Shanghai 2019 winner [活动回顾](https://mp.weixin.qq.com/s/8p2MUg6fVChKTNv1j22mkQ)
+* 2018[《El Hacedor》](https://yezi.itch.io/hacedor)2020 Neo Director Group exhibition, Aotu Space, Beijing [Link](https://mp.weixin.qq.com/s/VrqQQSO24L8ji25oFbelRg)
+* 2017 [《In the Box》](https://yezi.itch.io/in-the-box) NEXT IDEA 2017 Student Game Award: Bronze Prize
+
+其他实验性作品与原型见 [yezi.itch.io](https://yezi.itch.io)
 
 
 
@@ -116,7 +90,33 @@ x OUTPUT [O:BSERVE | 殊途同归的新媒体艺术与电子游戏](https://mp.w
 
 
 
+### 翻译
 
+
+
+
+
+### **工作**
+
+2020.3 - Present 媒体实验室 落日间 创始人，播客《落日间》主播
+
+2017.7- Present 腾讯NExT Studios 游戏设计师
+
+2016.9 - 2018.6 独立游戏媒体indienova.com撰稿人
+
+\*华中师范大学美术学院「游戏设计课程」兼职硕士生导师（推进中）
+
+### **教育**
+
+南京大学历史学（2014-2018），哲学系答辩通过毕业论文《潜能的游戏》，
+
+南京大学人文与社会科学高级研究院（IAS Institute for Advanced Studies in Humanities and Social Sciences） 第一期（2015级）驻院本科生，导师：诺贝尔文学奖得主 Jean Paul Leclézio
+
+南京大学艺术研究院（Art Institution of Nanjing University） 第一期艺术与文化创意研修项目成员
+
+巴黎第七大学交换学期（Université de Paris 7 Diderot ） Art et Humanites（2017）
+
+北京大学第十届（2018年）通识教育核心课程讲习班成员
 
 ### 报道
 
