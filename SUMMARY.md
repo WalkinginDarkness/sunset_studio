@@ -47,7 +47,6 @@
 ## Ficstruction 虚构 <a href="#ficstruction" id="ficstruction"></a>
 
 * [Paidia 游 戏](ficstruction/paidia/README.md)
-  * [#0 何为游戏？](ficstruction/paidia/0-he-wei-you-xi.md)
   * [#1 “严肃”的游戏](ficstruction/paidia/1-yan-su-de-you-xi.md)
   * [#2 游戏的高度严肃性](ficstruction/paidia/2-you-xi-de-gao-du-yan-su-xing.md)
 * [Undo 解 构 | 理 论](ficstruction/undo/README.md)
