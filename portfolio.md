@@ -1,5 +1,5 @@
 ---
-description: To B
+description: 所以「何为游戏」，而「游戏何为」？
 ---
 
 # Portfolio
